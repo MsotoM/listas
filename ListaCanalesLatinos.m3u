@@ -135,7 +135,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8?-1332%2F1499-2015081
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1505.png",FILM ZONE HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,DE PELICULA HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1016.png",DE PELICULA HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0,AZCINEMA
