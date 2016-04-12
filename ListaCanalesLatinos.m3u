@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Lared.png" group-title="NACIONALES",La Red 
+http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b448304.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/UCV_HD_2014.png" group-title="NACIONALES",UCV 
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/TvnHD.png" group-title="NACIONALES",TVN 
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/TVChile.png" group-title="NACIONALES",TVN Internacional
+http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/LogoMega2015.png" group-title="NACIONALES",Mega 
+http://edge-91-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b600.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Logo_CHV_2015.png" group-title="NACIONALES",CHV 
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Canal13hd.png" group-title="NACIONALES",Canal 13 
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Canal-13-Cable1.png" group-title="NACIONALES", C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png",DISNEY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
@@ -75,40 +99,37 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE02.m3u8?-1332%2F1499-2015081
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1011.png",AXN HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,SYFY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/219.png",SYFY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,FOX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1012.jpg",FOX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,FOX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1012.jpg",FOX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,FOX 1 HD
-hhttp://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
-#EXTINF:0,FOX ACTION HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/561.png",FOX ACTION HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,FOX MOVIES HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/559.png",FOX MOVIES HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,FOX CINEMA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/562.png",FOX CINEMA
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,FOX CLASSICS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/560.png",FOX CLASSICS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,FOX LIFE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1013.png",FOX LIFE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,TNT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/502.png",TNT
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,TNT HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1014.png",TNT HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,TNT SERIES
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1015.png",TNT SERIES
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0,FILM ZONE HD
