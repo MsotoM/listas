@@ -138,49 +138,49 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE02.m3u8?-1332%2F1499-2015081
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1016.png",DE PELICULA HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,AZCINEMA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1019.png",AZCINEMA
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,AMC
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1017.png",AMC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,AMC HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1018.png",AMC HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,SPACE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/518.png",SPACE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,SPACE HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/519.png",SPACE HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,CINECANAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/507.png",CINECANAL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,CINECANAL+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/506.png",CINECANAL+
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,CINEMAX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/509.png",CINEMAX
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,GOLDEN HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/503.png",GOLDEN HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,GOLDEN EDGE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/517.png",GOLDEN EDGE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,STUDIO UNIVERSAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/508.png",STUDIO UNIVERSAL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0,TCM
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,iSAT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/520.png",iSAT
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:-1 channelId="1190" , Comedy Central
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/215.png", Comedy Central
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0,TBS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/216.png",TBS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1,RITMOSON 
