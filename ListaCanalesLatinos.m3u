@@ -171,6 +171,9 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8?-1332%2F1499-2015081
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/508.png",STUDIO UNIVERSAL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
+#EXTINF:-1,EDGE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
 #EXTINF:0,TCM
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
@@ -204,6 +207,9 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8?-1332%2F1499-2015081
 #EXTINF:-1 channelId="1959" , Bandamax
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL1902/PROFILE01-65/37-20160409T085318.ts=-1
 
+#EXTINF:-1,1CLASSICS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
 #EXTINF:0,A & E
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
@@ -215,6 +221,9 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8?-1332%2F1499-2015081
 
 #EXTINF:-1 channelId="2622" , Glitz
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,ID
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1732.png",DISCOVERY CHANEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
