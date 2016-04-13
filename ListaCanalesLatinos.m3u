@@ -408,3 +408,11 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",CANTINAZO T-K
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Spice Tv 18+
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Venus 18+
+http://84.75.244.87:8000/play/a00g
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",BRAZERS 18+
+http://sasuketv.iptvitalia.eu:2300/live/romano1/romano1/14637.ts
