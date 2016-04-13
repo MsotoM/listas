@@ -177,9 +177,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8?-1332%2F1499-2015081
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/508.png",STUDIO UNIVERSAL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",EDGE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",TCM
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
