@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/megamovieshd_320.jpg",Peliculas HD Random (prueba)
+#EXTINF:-1 tvg-logo="http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/megamovieshd_320.jpg",Peliculas Random
 http://vaughnlive.tv/mega_movieshd
 
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Lared.png" group-title="NACIONALES",La Red 
@@ -36,7 +36,7 @@ http://66.151.244.79/super_pt.php?canal=1467&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/316.png",DISNEY XD
 http://66.151.244.79/super_pt.php?canal=1487&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",DISNEY Junior
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/315.png",DISNEY Junior
 http://66.151.244.79/super_pt.php?canal=1459&f=.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/322.png",NICKTOONS
@@ -63,8 +63,14 @@ http://66.151.244.79/super_pt.php?canal=1499&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png",TIIN
 http://66.151.244.79/super_pt.php?canal=1495&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/cbeebies.png",BBC CBEEBIES HD
+http://66.151.244.79/super_pt.php?canal=1455&f=.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",DISCOVERY KIDS
 http://66.151.244.79/super_pt.php?canal=1451&f=.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/644.png" group-title="DEPORTES,NBA (Nhl)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/625.png" group-title="DEPORTES, Espn+
 http://66.151.244.79/super_pt.php?canal=1651&f=.m3u8
@@ -84,13 +90,13 @@ http://66.151.244.79/super_pt.php?canal=1659&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png"  group-title="DEPORTES, Fox Sports 2
 http://66.151.244.79/super_pt.php?canal=1663&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png"  group-title="DEPORTES,PX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/pxhd.png"  group-title="DEPORTES,PX HD
 http://66.151.244.79/super_pt.php?canal=1667&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png"  group-title="DEPORTES,Aym Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/aymsd.png"  group-title="DEPORTES,Aym Sports
 http://66.151.244.79/super_pt.php?canal=1679&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png"  group-title="DEPORTES,Formula 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/f1hd.png"  group-title="DEPORTES,Formula 1 HD
 http://66.151.244.79/super_pt.php?canal=1647&f=.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/210.png",SONY HD
@@ -150,7 +156,7 @@ http://66.151.244.79/super_pt.php?canal=1595&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1016.png",DE PELICULA HD
 http://66.151.244.79/super_pt.php?canal=1599&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1019.png",AZCINEMA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/azcinema.png",AZCINEMA
 http://66.151.244.79/super_pt.php?canal=1579&f=.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1018.png",AMC HD
@@ -180,10 +186,10 @@ http://66.151.244.79/super_pt.php?canal=1623&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/508.png",STUDIO UNIVERSAL
 http://66.151.244.79/super_pt.php?canal=1635&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Universal Channel 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/universalc.png",Universal Channel 
 http://66.151.244.79/super_pt.php?canal=1395&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",TCM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/tcm.png",TCM
 http://66.151.244.79/super_pt.php?canal=1643&f=.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/520.png",iSAT
@@ -195,19 +201,19 @@ http://66.151.244.79/super_pt.php?canal=1359&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/216.png",TBS
 http://66.151.244.79/super_pt.php?canal=1435&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",RITMOSON 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/ritmoson.png",RITMOSON 
 http://66.151.244.79/super_pt.php?canal=1727&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Mtv Live hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/mtvlive.png", Mtv Live hd
 http://66.151.244.79/super_pt.php?canal=1699&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Telehit HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/telehit.png", Telehit HD
 http://66.151.244.79/super_pt.php?canal=1703&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Vh1 Classic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/vh1.png", Vh1 Classic
 http://66.151.244.79/super_pt.php?canal=1723&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Vh1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/vh1.png", Vh1 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Mtv
@@ -216,22 +222,22 @@ http://66.151.244.79/super_pt.php?canal=175&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",MTV Hits
 http://66.151.244.79/super_pt.php?canal=1719&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Bandamax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/bandamax.png", Bandamax
 http://66.151.244.79/super_pt.php?canal=1731&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",1CLASSICS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",A & E
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/aye.png",A&E
 http://66.151.244.79/super_pt.php?canal=1347&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Trutv
 http://66.151.244.79/super_pt.php?canal=1355&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", El Gourmet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/gourmet.png", El Gourmet
 http://66.151.244.79/super_pt.php?canal=1415&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Glitz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/224.png", Glitz
 http://66.151.244.79/super_pt.php?canal=1423&f=.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1732.png",DISCOVERY CHANEL
@@ -243,55 +249,55 @@ http://66.151.244.79/super_pt.php?canal=1539&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Discovery World HD
 http://66.151.244.79/super_pt.php?canal=1515&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Discovery H&H
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/229.png", Discovery H&H
 http://66.151.244.79/super_pt.php?canal=1527&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Discovery Civilization
 http://66.151.244.79/super_pt.php?canal=1543&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/736.png", Discovery Turbo
 http://66.151.244.79/super_pt.php?canal=1547&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Discovery TLC
 http://66.151.244.79/super_pt.php?canal=1551&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Discovery ID
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/did.png",Discovery ID
 http://66.151.244.79/super_pt.php?canal=1403&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Discovery Theather HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/733.png", Discovery Theather HD
 http://66.151.244.79/super_pt.php?canal=1503&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",National Geographic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/730.png",National Geographic
 http://66.151.244.79/super_pt.php?canal=1531&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Wobi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/714.png", Wobi
 http://66.151.244.79/super_pt.php?canal=1555&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",HISTORY HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/743.png",HISTORY HD
 http://66.151.244.79/super_pt.php?canal=1507&f=.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",NATGEO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",NATGEO WILD HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/nwild.png",NATGEO WILD HD
 http://66.151.244.79/super_pt.php?canal=1511&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",ANIMAL PLANET
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/aplanet.png",ANIMAL PLANET
 http://66.151.244.79/super_pt.php?canal=1523&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",LIFETIME
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/228.png",LIFETIME
 http://66.151.244.79/super_pt.php?canal=1535&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",BBC E
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/bbce.png",BBC ENTERTAINMENT
 http://66.151.244.79/super_pt.php?canal=1387&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",E!
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/ee.png",E!
 http://66.151.244.79/super_pt.php?canal=1391&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",TVE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/760.png",TVE
 http://66.151.244.79/super_pt.php?canal=1695&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Az Clic HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/azclic.png", Az Clic HD
 http://66.151.244.79/super_pt.php?canal=1103&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",ATV
@@ -309,7 +315,7 @@ http://66.151.244.79/super_pt.php?canal=1111&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",AZTECA TRECE
 http://66.151.244.79/super_pt.php?canal=1047&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",GALA TV HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/galatv.png",GALA TV HD
 http://66.151.244.79/super_pt.php?canal=1255&f=.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",CANAL ONCE HD
@@ -318,16 +324,16 @@ http://66.151.244.79/super_pt.php?canal=1261&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",UNICABLE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",PROYECTO 40 HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/proyecto40.png",PROYECTO 40 HD
 http://66.151.244.79/super_pt.php?canal=1091&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png", Azteca Corazon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/azcorazon.png", Azteca Corazon
 http://66.151.244.79/super_pt.php?canal=1095&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",DISTRITO COMEDIA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/dcomedia.png",DISTRITO COMEDIA
 http://66.151.244.79/super_pt.php?canal=1431&f=.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",TELENOVELAS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/227.png",TELENOVELAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",AZMUNDO
@@ -348,9 +354,6 @@ http://66.151.244.79/super_pt.php?canal=1315&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",UNO MAS UNO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL145/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",PX TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",PANAMERICANA
 http://stream-ec.sv6.dailymotion.com/01/dm/1/x18w5up/live.isml/events(live-1459525247)/live-audio=128000-video=700000.m3u8
 
@@ -366,7 +369,7 @@ http://videos.visionlatina.tv:1935/LiveATV/loi/media_w648294901_98426.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",TELESISTEMA
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w759799753_b764000.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",ANTENA LATINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/antena.png",ANTENA LATINA
 http://ss6.domint.net:1962/al_edge/antena/chunklist_w1285374844.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",UNO TV
@@ -390,19 +393,19 @@ http://ss8.domint.net:2048/cvis_str/video/chunklist_w296455619.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Azteca 7 Monterrey México
 http://66.151.244.79/super_pt.php?canal=1011&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Canal 2 Canal DE LAS ESTRELLAS
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Total Play HD (prueba)
-http://66.151.244.79/super_pt.php?canal=1003&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Canal De Las Estrellas HD (prueba)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/estrellahd.png",Canal De Las Estrellas HD 
 http://66.151.244.79/super_pt.php?canal=1099&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/totalplay.png",Total Play HD
+http://66.151.244.79/super_pt.php?canal=1003&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/221.png",HOLA TV HD 
+http://66.151.244.79/super_pt.php?canal=1367&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",HMX HD (prueba)
 http://66.151.244.79/super_pt.php?canal=1323&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Unicable HD (prueba)
 http://66.151.244.79/super_pt.php?canal=1363&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",HOLA TV HD (prueba)
-http://66.151.244.79/super_pt.php?canal=1367&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Fashion TV HD (prueba)
 http://66.151.244.79/super_pt.php?canal=1371&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Mas Chic HD (prueba)
@@ -411,8 +414,7 @@ http://66.151.244.79/super_pt.php?canal=1375&f=.m3u8
 http://66.151.244.79/super_pt.php?canal=1419&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Trendy Channel HD (prueba)
 http://66.151.244.79/super_pt.php?canal=1447&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",BBC CBEEBIES HD (prueba)
-http://66.151.244.79/super_pt.php?canal=1455&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",CineMax  (prueba)
 http://66.151.244.79/super_pt.php?canal=1615&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",El Financiero Bloomberg HD (prueba)
@@ -421,8 +423,8 @@ http://66.151.244.79/super_pt.php?canal=16887f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Spice Tv 18+
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",Venus 18+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/venus.png",Venus 18+
 http://84.75.244.87:8000/play/a00g
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png",BRAZERS 18+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/brazzers.png",BRAZERS 18+
 http://sasuketv.iptvitalia.eu:2300/live/romano1/romano1/14637.ts
