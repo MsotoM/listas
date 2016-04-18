@@ -25,6 +25,8 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png" group-title="DIBUJOS ANIMADOS",DISNEY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png" group-title="DIBUJOS ANIMADOS",DISNEY CHANNEL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/316.png" group-title="DIBUJOS ANIMADOS",DISNEY XD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/322.png" group-title="DIBUJOS ANIMADOS",NICK
@@ -89,7 +91,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE02.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1016.png" group-title="PELICULAS & SERIES",DE PELICULA HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1019.png" group-title="PELICULAS & SERIES",AZCINEMA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1019.jpg" group-title="PELICULAS & SERIES",AZCINEMA
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1017.png" group-title="PELICULAS & SERIES",AMC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
