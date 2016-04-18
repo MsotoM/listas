@@ -23,11 +23,10 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Canal-13-Cable1.png" group-title="NACIONALES", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png",DISNEY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png",DISNEY CHANNEL HD
