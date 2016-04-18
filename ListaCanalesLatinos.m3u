@@ -41,6 +41,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png" group-title="DIBUJOS ANIMADOS",TIIN
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg" group-title="DIBUJOS ANIMADOS",CBEEBIES
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png" group-title="DIBUJOS ANIMADOS",DISCOVERY KIDS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 
