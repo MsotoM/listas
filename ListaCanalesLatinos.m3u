@@ -223,7 +223,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/229.png" group-title="DOCUMENTALES",DISCOVERY H&H
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="DOCUMENTALES",DISCOVERY TLC
+#EXTINF:0 tvg-logo="http://www.prensario.tv/IMAGENES/Discovery/TLC_HD_logo.jpg" group-title="DOCUMENTALES",DISCOVERY TLC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/did.png" group-title="DOCUMENTALES",DISCOVERY ID
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
@@ -246,50 +246,48 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",TLNOVELAS
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/TLNOVELAS%20T-K.jpg" group-title="INTERNACIONAL",TLNOVELAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",tve
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/TVE.jpg" group-title="INTERNACIONAL",TVE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",CANAL DE LAS ESTRELLAS
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20De%20Las%20Estrellas%20HD%20T-K.png" group-title="INTERNACIONAL",CANAL DE LAS ESTRELLAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",CANAL 5
+#EXTINF:0 tvg-logo="http://es.spongepedia.org/images/5/58/Canal5.png" group-title="INTERNACIONAL",CANAL 5
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",AZTECA 7
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Azteca%207%20HD%20T-K.jpg" group-title="INTERNACIONAL",AZTECA 7
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",GALAVISION
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/GALAVISION.jpg" group-title="INTERNACIONAL",GALAVISION
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",ONCE TV
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20Once%20HD.jpg" group-title="INTERNACIONAL",ONCE TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",AZTECA 13
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/AZTECA%2013.jpg" group-title="INTERNACIONAL",AZTECA 13
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",CANAL 40
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%2040%20HD.jpg" group-title="INTERNACIONAL",CANAL 40
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",MULTIMEDIOS TV
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/MULTIMEDIOS%20TV.jpg" group-title="INTERNACIONAL",MULTIMEDIOS TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",AZCLIC
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/AZCLIC.jpg" group-title="INTERNACIONAL",AZCLIC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",CANAL DE LAS ESTRELLAS HD
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%20DE%20LAS%20ESTRELLAS%20HD.jpg" group-title="INTERNACIONAL",CANAL DE LAS ESTRELLAS HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",CANAL 5 HD
+#EXTINF:0 tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/canal5HD.png" group-title="INTERNACIONAL",CANAL 5 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",AZTECA 7 HD
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Azteca%207%20HD%20T-K.jpg" group-title="INTERNACIONAL",AZTECA 7 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",GALAVISION HD
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/GALAVISION%20HD.jpg" group-title="INTERNACIONAL",GALAVISION HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",ONCE TV HD
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20Once%20HD.jpg" group-title="INTERNACIONAL",ONCE TV HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",AZTECA 13 HD
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/AZTECA%2013%20HD.jpg" group-title="INTERNACIONAL",AZTECA 13 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",CANAL 40 HD
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%2040%20HD.jpg" group-title="INTERNACIONAL",CANAL 40 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/iptv.png" group-title="INTERNACIONAL",MULTIMEDIOS TV HD
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/MULTIMEDIOS%20TV%20HD%20T-K.jpg" group-title="INTERNACIONAL",MULTIMEDIOS TV HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/221.png",HOLA TV HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/221.png" group-title="INTERNACIONAL",HOLA TV HD 
 http://66.151.244.79/super_pt.php?canal=1367&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/venus.png",Venus 18+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/venus.png" group-title="ADULTO",Venus 18+
 http://84.75.244.87:8000/play/a00g
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/brazzers.png",BRAZERS 18+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/brazzers.png" group-title="ADULTO",BRAZERS 18+
 http://sasuketv.iptvitalia.eu:2300/live/romano1/romano1/14637.ts
