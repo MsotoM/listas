@@ -25,8 +25,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",DISCOVERY KIDS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png",HBO 2
-http://199.180.114.174:88/files/hbo222222.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/210.png",SONY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1206.png",WARNER HD
