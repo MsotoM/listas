@@ -25,28 +25,40 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png",DISNEY CHANNEL
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png",DISNEY CHANNEL HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/316.png",DISNEY XD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/322.png",NICK
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/337.png",NICK JR
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1002.png",NICK HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/304.png",CARTOON NETWORK
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1009.png",BOOMERANG
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1000.png",TOONCAST
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png",TIIN
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",CBEEBIES
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",DISCOVERY KIDS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 
