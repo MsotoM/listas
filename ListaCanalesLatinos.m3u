@@ -99,7 +99,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/216.png",TBS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
-
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN.png",ESPN
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%20+.png", ESPN+
@@ -134,8 +133,6 @@ http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 http://66.151.244.79/super_pt.php?canal=1679&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/f1hd.png",Formula 1 HD
 http://66.151.244.79/super_pt.php?canal=1647&f=.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png",PORTALFOXMIX TV 
 http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/Vevo%20HD%201.jpg",VEVO HD 1
