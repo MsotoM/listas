@@ -217,3 +217,47 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/EL%20FINANCIERO%20BLOOMERANG.jpg",EL FINANCIERO BLOOMERANG
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/TLNOVELAS%20T-K.jpg",TLNOVELAS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/TVE.jpg",TVE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20De%20Las%20Estrellas%20HD%20T-K.png",CANAL DE LAS ESTRELLAS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://es.spongepedia.org/images/5/58/Canal5.png",CANAL 5
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Azteca%207%20HD%20T-K.jpg",AZTECA 7
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/GALAVISION.jpg",GALAVISION
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20Once%20HD.jpg",ONCE TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/AZTECA%2013.jpg",AZTECA 13
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%2040%20HD.jpg",CANAL 40
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/MULTIMEDIOS%20TV.jpg",MULTIMEDIOS TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/AZCLIC.jpg",AZCLIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%20DE%20LAS%20ESTRELLAS%20HD.jpg",CANAL DE LAS ESTRELLAS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/canal5HD.png",CANAL 5 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Azteca%207%20HD%20T-K.jpg",AZTECA 7 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/GALAVISION%20HD.jpg",GALAVISION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20Once%20HD.jpg",ONCE TV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/AZTECA%2013%20HD.jpg",AZTECA 13 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%2040%20HD.jpg",CANAL 40 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/MULTIMEDIOS%20TV%20HD%20T-K.jpg",MULTIMEDIOS TV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/221.png",HOLA TV HD 
+http://66.151.244.79/super_pt.php?canal=1367&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/venus.png" group-title="ADULTO",Venus 18+
+http://84.75.244.87:8000/play/a00g
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/brazzers.png" group-title="ADULTO",BRAZERS 18+
+http://sasuketv.iptvitalia.eu:2300/live/romano1/romano1/14637.ts
