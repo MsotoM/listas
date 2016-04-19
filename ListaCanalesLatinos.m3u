@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logoss.png",Movie Premier
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-logo="http://tv.tecnotv.net/logoss.png", TELECANAL SANTIAGO CHILE
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Lared.png",La Red 
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b448304.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/UCV_HD_2014.png",UCV 
