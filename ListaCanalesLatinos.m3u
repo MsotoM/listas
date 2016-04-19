@@ -99,3 +99,84 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/216.png",TBS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN.png",ESPN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%20+.png", ESPN+
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%202.png", ESPN 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/626.png", ESPN 3
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/604.png", FOX SPORTS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/pxhd.png",PX 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/621.png", ESPN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%202%20HD.jpg", ESPN 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/626.png", ESPN 3 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%20+%20HD.png", ESPN + HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/pxhd.png",PX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/644.png",NBA (Nhl)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/aymsd.png",Aym Sports
+http://66.151.244.79/super_pt.php?canal=1679&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/f1hd.png",Formula 1 HD
+http://66.151.244.79/super_pt.php?canal=1647&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png",PORTALFOXMIX TV 
+http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/Vevo%20HD%201.jpg",VEVO HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/Vevo%20HD%202.jpg",VEVO HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/Vevo%20HD%203.jpg",VEVO HD 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/ritmoson.png",RITMOSON 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/mtvlive.png", MTV LIVE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://tommysawkinsbadmp.files.wordpress.com/2012/10/logo_mtv.png",MTV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://www.dafont.com/forum/attach/orig/4/5/454704.png",MTV HITS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/vh1.png", VH1 CLASSIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/vh1.png", VH1 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/telehit.png", TELEHIT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE02.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/bandamax.png", BANDAMAX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL1902/PROFILE01-65/37-20160409T085318.ts=-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/170px-VH1_Classic_UK.svg.png",1CLASSICS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/VH1_logo.svg/150px-VH1_logo.svg.png",VHR
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/mtvlive.png",MTV LIVE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/telehit.png",TELEHIT HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/1CLASSICS%20HD.png",VHR HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/MTV_HD_Logo_2013.png",MTV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="http://www.dafont.com/forum/attach/orig/4/5/454704.png",MTV HITS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/170px-VH1_Classic_UK.svg.png",1CLASSICS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/ritmoson.png",RITMOSON HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/bandamax.png",BANDAMAX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
