@@ -37,8 +37,10 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/304.png",CARTOON NETWORK (HD)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1009.png",BOOMERANG
+#EXTINF:0 tvg-logo="http://www.getsatellite.com/channels/boomerang.png",BOOMERANG (SD)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://www.getsatellite.com/channels/boomerang.png",BOOMERANG (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1000.png",TOONCAST
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png",TIIN
