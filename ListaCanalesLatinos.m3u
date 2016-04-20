@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://tv.tecnotv.net/logoss.png",Movie Premier
+#EXTINF:-1 tvg-logo="http://www.vodafone.co.nz/cms/images/sky/channels/movies-premiere.png",Movie Premier (test)
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-logo="http://tv.tecnotv.net/logoss.png", TELECANAL SANTIAGO CHILE
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Telecanal.png", TELECANAL SANTIAGO CHILE
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Lared.png",La Red 
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b448304.m3u8
@@ -33,8 +33,10 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1002.png",NICK HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/304.png",CARTOON NETWORK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/304.png",CARTOON NETWORK (SD)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/304.png",CARTOON NETWORK (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1009.png",BOOMERANG
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1000.png",TOONCAST
