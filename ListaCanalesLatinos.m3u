@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,cdf
+https://video11-lax.streamup.com/app/cdfnetresult1s-stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodafone.co.nz/cms/images/sky/channels/movies-premiere.png",Movies Premiere (test)
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Telecanal.png", TELECANAL Sta Cruz
