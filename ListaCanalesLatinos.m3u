@@ -13,7 +13,7 @@ http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/TVChile.png",TVN Internacional
 http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/LogoMega2015.png",Mega 
+#EXTINF:-1 tvg-logo=vi"http://listaiptvchile.hol.es/tvlogo/LogoMega2015.png",Mega 
 http://edge-91-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b600.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Logo_CHV_2015.png",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
@@ -172,7 +172,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/Vevo%20HD%203.jpg",VEVO HD 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2011/07/Virgin-Rock-Tv.jpg", VIRGIN MUSIC TV
-http://wow01.105.net/live/virgin1/.m3u8
+http://comunidadiptv.org/online/estable/?sintonizador=VirginTV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/ritmoson.png",RITMOSON 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/mtvlive.png", MTV LIVE
