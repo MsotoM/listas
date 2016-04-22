@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC HD (test)
+http://comunidadiptv.org/online/estable/?sintonizador=TigoMusicHD
 #EXTINF:-1 tvg-logo="http://cs621523.vk.me/v621523509/1b1a8/pFrRIryC0-A.jpg",1HD MUSIC TV RUSSIA (test)
 http://comunidadiptv.org/online/estable/?canal=R1HD
 #EXTINF:-1 tvg-logo="http://www.vodafone.co.nz/cms/images/sky/channels/movies-premiere.png",Movies Premiere (test)
