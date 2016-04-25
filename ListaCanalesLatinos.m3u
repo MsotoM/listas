@@ -31,8 +31,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/316.png",DISNEY XD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/14.png",NICKTOONS
-http://149.56.15.110/pt.m3u8?mxg=U2FsdGVkX19rhlhH%2B42IH5PVv5vJDQWMq6NHIZrzt9ebb%2BOy%2FmWbkQk0qXcWccgwIGFZR3xmliK8XYByyyhYphyXVZq%2Bik0gz%2FHcZpG3Y2M%3D
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/322.png",NICK
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/337.png",NICK JR
@@ -55,8 +53,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",DISCOVERY KIDS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png",HBO 2
-http://199.180.114.174:88/files/hbo222222.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/210.png",SONY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1206.png",WARNER HD
