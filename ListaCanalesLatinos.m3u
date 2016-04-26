@@ -5,6 +5,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
 #EXTINF:-1,HBO Family (test)
 http://latino-webtv.ml/live/449.m3u8
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png" group-title="Canales Premium" ,TRENDY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC HD (test)
 http://comunidadiptv.org/online/estable/?sintonizador=TigoMusicHD
 #EXTINF:-1 tvg-logo="http://cs621523.vk.me/v621523509/1b1a8/pFrRIryC0-A.jpg",1HD MUSIC TV RUSSIA (test)
