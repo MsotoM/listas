@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",HBO Family (test)
+#EXTINF:-1,NICKTOONS (test)
+http://latino-webtv.ml/live/314_03.m3u8
+#EXTINF:-1,HBO Family (test)
 http://latino-webtv.ml/live/449.m3u8
 #EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC HD (test)
 http://comunidadiptv.org/online/estable/?sintonizador=TigoMusicHD
