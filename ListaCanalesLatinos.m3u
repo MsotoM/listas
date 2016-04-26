@@ -1,11 +1,12 @@
 #EXTM3U
+#EXTINF:-1,MiamiTV (test)
+http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w658754370.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/E_zpsoii78ynn.png",E! test
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
 #EXTINF:-1,HBO Family (test)
 http://latino-webtv.ml/live/449.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png",TRENDY test
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8
-
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Telecanal.png", TELECANAL Sta Cruz
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Lared.png",La Red 
