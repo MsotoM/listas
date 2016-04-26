@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK (test)
+http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1 tvg-logo="http://tvdb.cl/wp-content/uploads/miami_tv_us.png",MiamiTV (test)
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w658754370.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/E_zpsoii78ynn.png",E! test
