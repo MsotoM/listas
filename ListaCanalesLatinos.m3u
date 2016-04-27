@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK (test)
-http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1 tvg-logo="http://tvdb.cl/wp-content/uploads/miami_tv_us.png",MiamiTV (test)
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w658754370.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/E_zpsoii78ynn.png",E! test
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png",TRENDY test
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Telecanal.png", TELECANAL Sta Cruz
@@ -17,7 +13,7 @@ http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/TVChile.png",TVN Internacional
 http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1 tvg-logo=vi"http://www.brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg",Mega 
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg",Mega 
 http://edge-91-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b600.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Logo_CHV_2015.png",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
@@ -139,6 +135,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/216.png",TBS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK
+http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN.png",ESPN
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%20+.png", ESPN+
@@ -225,6 +223,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/bandamax.png",BANDAMAX HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/E_zpsoii78ynn.png",E!
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/aye.png",A&E
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/TRU%20TV%20T-K.png", TRUTV
