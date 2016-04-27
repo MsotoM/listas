@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="",HBO (test)
+rtmp://178.162.199.155/live/hbomayimbu?id=86823&pk=e3e1d45d5509aaad1e0399d4772bb1c91512481d4b3cb511d5981a6d2c7782ae
 #EXTINF:-1 tvg-logo="http://tvdb.cl/wp-content/uploads/miami_tv_us.png",MiamiTV (test)
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w658754370.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png",TRENDY test
