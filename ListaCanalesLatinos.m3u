@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static.beinsportsconnect.es/uploads/beinsports/web/img/logos/logo-beinsports-max-1.png", BEIN SPORT MAX 1 (test buffer)
+http://hls.goodgame.ru/hls/72396.m3u8 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/20/Fail_Army_2d_logo.jpg", FAILARMY TV
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_8726_7_1934.png",Telemax (test)
