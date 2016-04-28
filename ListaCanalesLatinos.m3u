@@ -1,14 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/20/Fail_Army_2d_logo.jpg", FAILARMY TV
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_8726_7_1934.png",Telemax (test)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/072013/antena_3.png",Antena 3 (test)
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-LHjmYWBit7g/UH3nhBJWQLI/AAAAAAAARFg/61O77eMg9Lg/s76/paka-paka.PNG",PakaPaka (test)
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://tvdb.cl/wp-content/uploads/miami_tv_us.png",MiamiTV (test)
-http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w658754370.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png",TRENDY test
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Telecanal.png", TELECANAL Sta Cruz
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Lared.png",La Red 
@@ -57,6 +51,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",CBEEBIES
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-LHjmYWBit7g/UH3nhBJWQLI/AAAAAAAARFg/61O77eMg9Lg/s76/paka-paka.PNG",PakaPaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",DISCOVERY KIDS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodafone.co.nz/cms/images/sky/channels/movies-premiere.png",Movies Premiere
@@ -273,6 +269,10 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/TLNOVELAS%20T-K.jpg",TLNOVELAS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="http://tvdb.cl/wp-content/uploads/miami_tv_us.png",MiamiTV
+http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w658754370.m3u8
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png",TRENDY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/TVE.jpg",TVE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20De%20Las%20Estrellas%20HD%20T-K.png",CANAL DE LAS ESTRELLAS
@@ -299,6 +299,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Azteca%207%20HD%20T-K.jpg",AZTECA 7 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/072013/antena_3.png",ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/GALAVISION%20HD.jpg",GALAVISION HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20Once%20HD.jpg",ONCE TV HD
