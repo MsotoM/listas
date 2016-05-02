@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/yomvi/estrenos.png", Canal +ESTRENOS
-http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/yomvi/dcine.png", Canal +DCINE
-http://cdn.sstream.pw/live/dcine_aw3g20p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/yomvi/cosmo.png", COSMO
-http://cdn.sstream.pw/live/cosmo_a894omv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/discoverymax.png", DISCOVERY MAX
-http://cdn.sstream.pw/live/dismax_9c7n25t/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/boing.png", BOING
-http://cdn.sstream.pw/live/boing_aaquham/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/c5n.png", C5N
 http://c5n.stweb.tv/c5n/live_media/.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tycsports.png", TyC Sports
