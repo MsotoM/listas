@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.azteca7.com/portal/siete-beta/images/logo_empty.png, Canal 7 Azteca
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/dxtv.png", DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tateti.png", TaTeTi
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/ondalatina.png", ONDA LATINA
@@ -291,8 +291,10 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://es.spongepedia.org/images/5/58/Canal5.png",CANAL 5
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Azteca%207%20HD%20T-K.jpg",AZTECA 7
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Azteca%207%20HD%20T-K.jpg",AZTECA 7 (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="http://www.azteca7.com/portal/siete-beta/images/logo_empty.png, AZTECA 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/GALAVISION.jpg",GALAVISION
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20Once%20HD.jpg",ONCE TV
