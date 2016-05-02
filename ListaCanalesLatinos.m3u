@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tycsports.png", TyC Sports
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://videomusic.nl/mytools/uploads/2015/11/miami-music-tv-logo.png", Miami TV Music
 http://74.208.152.93/music/stream3/stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/neox.png", NEOX
