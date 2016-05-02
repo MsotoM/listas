@@ -55,7 +55,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",CBEEBIES
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-LHjmYWBit7g/UH3nhBJWQLI/AAAAAAAARFg/61O77eMg9Lg/s76/paka-paka.PNG",PakaPaka
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/pakapaka.png",PakaPaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",DISCOVERY KIDS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
