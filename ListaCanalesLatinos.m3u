@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.homeboxoffice.com/bulkmarkets/img/logos/hbo_blue_logo.jpg", HBO
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/djing.png", DJING
+http://www.djing.com/tv/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.hbo.rs/images/header_logo.png", HBO
 http://199.180.114.174:88/files/hbo11.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/20/Fail_Army_2d_logo.jpg", FAILARMY TV
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
