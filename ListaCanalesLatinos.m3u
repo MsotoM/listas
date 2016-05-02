@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.jctv.co.jp/common/images/h_cnnus.png", CNN USA
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/boing.png", BOING
+http://cdn.sstream.pw/live/boing_aaquham/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/c5n.png", C5N
 http://c5n.stweb.tv/c5n/live_media/.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tycsports.png", TyC Sports
