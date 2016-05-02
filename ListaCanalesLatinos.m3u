@@ -5,7 +5,11 @@ http://c5n.stweb.tv/c5n/live_media/.m3u8
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://videomusic.nl/mytools/uploads/2015/11/miami-music-tv-logo.png", Miami TV Music
 http://74.208.152.93/music/stream3/stream.m3u8
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/neox.png", NEOX
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/nova.png", NOVA ESP
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/mega.png", MEGA ESP
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/neox.png", NEOX ESP
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/360.png", 360 DEPORTES
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
