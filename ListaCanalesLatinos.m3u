@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Bein Sports 1
+http://sicostopo.com/ichi134/sintonizar.m3u8?canal=205
+#EXTINF:-1,Bein Sports 2
+http://sicostopo.com/ichi134/sintonizar.m3u8?canal=206
+#EXTINF:-1,Bein Sports 3
+http://sicostopo.com/ichi134/sintonizar.m3u8?canal=207
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/c5n.png", C5N
 http://c5n.stweb.tv/c5n/live_media/.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tycsports.png", TyC Sports
