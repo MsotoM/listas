@@ -85,8 +85,6 @@ http://199.180.114.174:88/files/hbo11.m3u8
 http://199.180.114.174:88/files/hbo222222.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/0/00/HBO_Family_new_logo.png",HBO FAMILY
 http://199.180.114.174:88/files/hbofamily453.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/HBO_Signature_Logo.png",HBO SIGNATURE
-http://199.180.114.174:88/files/hbosignature483.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/210.png",SONY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1206.png",WARNER HD
