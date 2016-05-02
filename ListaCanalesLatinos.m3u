@@ -1,5 +1,7 @@
 #EXTM3U
- #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/neox.png", NEOX
+#EXTINF:-1 tvg-logo="http://videomusic.nl/mytools/uploads/2015/11/miami-music-tv-logo.png", Miami TV Music
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/neox.png", NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/360.png", 360 DEPORTES
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
