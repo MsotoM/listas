@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.azteca7.com/portal/siete-beta/images/logo_empty.png, Canal 7 Azteca
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tateti.png", TaTeTi
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/ondalatina.png", ONDA LATINA
