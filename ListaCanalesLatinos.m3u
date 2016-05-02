@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.directv.cl/img/directv-logo-fb-150x150.jpg", DirectTV
+http://latino-webtv.ml/live/directv.m3u8
+#EXTINF:-1 tvg-logo="http://cine3.com/wp-content/uploads/2013/07/the-simpsons-logo.jpg", THE SIMPSONS (random)
+http://latino-webtv.ml/live/simpsons.m3u8
 #EXTINF:-1 tvg-logo="http://www.homeboxoffice.com/bulkmarkets/img/logos/hbo_blue_logo.jpg", HBO
 http://199.180.114.174:88/files/hbo11.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/20/Fail_Army_2d_logo.jpg", FAILARMY TV
