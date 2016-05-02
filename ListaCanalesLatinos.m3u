@@ -311,7 +311,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Azteca%207%20HD%20T-K.jpg",AZTECA 7 (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/Azteca%207%20HD%20T-K.jpg", AZTECA 7
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Logo_Azteca_7.png/150px-Logo_Azteca_7.png", AZTECA 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/GALAVISION.jpg",GALAVISION
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
