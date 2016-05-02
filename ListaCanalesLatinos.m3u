@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.getmemedia.com/public/ideas/Opp/13389/heart-tv.jpg",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/595716999881334785/gOokDoFF.jpg",Real Jamaican TV
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/c5n.png", C5N
