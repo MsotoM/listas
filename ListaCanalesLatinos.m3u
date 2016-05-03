@@ -142,6 +142,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/216.png",TBS
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK
+http://199.180.114.174:88/files/ufc972.m3u8
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK 2
 http://stream.ssh101.com:1935/live/tutvSky1/chunklist.m3u8?token=e9qiulBSqKVq2vfDxnMcdExpqS4Bp+lQa+VJkLh00bpJifjSesRx6F3qXnCEJfrFb6vCGeDGYuBnwheZi7vyfOwRVH%2FxOPSOF4litB9rCF0mLzkKZq33xs2BgAtsgsRpQ6KuOHvS6gI0CQSBX1UGOsx0trMPvbkD3JKVC%2F2CFv0%3D%7CtpjxtCzXmSlCYzlt9T6Td+K0FPcIOQD34CNh%2Fz5DlDI%3D.m3u8
 #EXTINF:-1 tvg-logo="http://dzceab466r34n.cloudfront.net/Images/ArticleImages/103520-NFL-Now-logo-145.jpg",NFL NOW
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
