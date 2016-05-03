@@ -112,9 +112,9 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1019.jpg",AZCINEMA
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1017.png",AMC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+http://199.180.114.174:88/files/amc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1018.png",AMC HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE02.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/518.png",SPACE
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/519.png",SPACE HD
