@@ -3,8 +3,6 @@
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png", TVE 24 HORAS
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="http://www.mundomax.com/sites/default/files/logo.png", MUNDOMAX
-https://video01-lax.streamup.com/app/ana69s-channel_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/170px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png", BEIN SPORT Ñ
 http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-logo="http://www1.plus.es/recorte/m-NEO/canal/ATRESS.png", A3S ATRESERIES HD
