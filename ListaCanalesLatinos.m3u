@@ -399,7 +399,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/221.png",HOLA TV HD 
 http://66.151.244.79/super_pt.php?canal=1367&f=.m3u8
-#EXTINF:-1 tvg-logo="http://photos.prnewswire.com/prn/20150526/219576LOGO/Docler-Media-JASMIN-TV-logo.png",JASMIN CHANNEL HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/--0Smo8NCWoo/AAAAAAAAAAI/AAAAAAAAAAA/dKDYGIvK5bo/s88-c-k-no-rj-c0xffffff/photo.jpg",JASMIN CHANNEL HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 #EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/az_noticias-mediano.png",AZ Noticias HD
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
