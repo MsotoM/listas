@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, BOING
-http://212.121.224.243:9981/stream/channel/8a9e796ad5051b5ee80fbd1589850d2d?ticket=B7540C9969EC55F04C69F7E194A29B110085DD87
-#EXTINF:-1, PANDA
-http://212.121.224.243:9981/stream/channel/86be25a10ff688ebc9ae1cf2b5245a1d?ticket=F6B57FF2194A862698645FECB2ED4BF215FCF0C6
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png",LA RED
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b448304.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UCV_HD_2014.png/200px-UCV_HD_2014.png",UCV HD
