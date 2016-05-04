@@ -305,7 +305,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/did.png",DISCOVERY ID
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/HISTORY%20(SUR).jpg",HISTORY
+#EXTINF:0 tvg-logo="http://www.moonmentum.com/blog/wp-content/uploads/2013/02/HistoryChannel1.png",HISTORY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Natgeo%20T-K.jpg",NATGEO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
