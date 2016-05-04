@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/15203/logo_1%20music%20channel%202.png",1Music Channel Hungary
+http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_Azteca_13_HD_2014.svg/150px-Logo_Azteca_13_HD_2014.svg.png",El Trece HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png",Ocho TV
