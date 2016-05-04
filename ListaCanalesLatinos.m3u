@@ -379,6 +379,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/221.png",HOLA TV HD 
 http://66.151.244.79/super_pt.php?canal=1367&f=.m3u8
+#EXTINF:-1 tvg-logo="http://photos.prnewswire.com/prn/20150526/219576LOGO/Docler-Media-JASMIN-TV-logo.png",JASMIN CHANNEL HD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/7547667_300x300.jpg",DW LATINOAMERICA
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png", TVE 24 HORAS
