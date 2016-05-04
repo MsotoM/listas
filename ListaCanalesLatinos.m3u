@@ -363,8 +363,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/AZTECA%2013.jpg",AZTECA 13 (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%2040%20HD.jpg",CANAL 40 (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%2040%20HD.jpg",PROYECTO 40
+http://urtmpkal-f.akamaihd.net:80/i/05i15qzql_1@149710/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://sipse.com/galatv/images/galaTvCancun-LogoMed.png", GALA TV CANCUN
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sipse.com/galatv/images/galaTvMerida-LogoMed.png", GALA TV MERIDA
