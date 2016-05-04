@@ -19,7 +19,7 @@ http://edge-21-vtr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/pl
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png",Canal 13HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Canal-13-Cable1.png", C13 CABLE
+#EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-13c.png", C13 CABLE
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:0 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tcsantacruz.png", TELECANAL STA CRUZ
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
