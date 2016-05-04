@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
+#EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports.png", WINSPORT
+http://latino-webtv.ml/live/win.m3u8?
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-RncDDueyS5I/UyxhJ9xXoPI/AAAAAAAAAQs/tc38_oIIm8A/s1600/login_logo.png", LOS SIMPSONS (WEBTV)
+http://latino-webtv.ml/live/simpsons.m3u8?
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:0 channelId="-1" tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg", Radio Carolina (CAM)
+#EXTINF:0 tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg", Radio Carolina (CAM)
 http://unlimited5-cl.dps.live/freakytv/freakytv.smil/freakytv5-hls/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png",LA RED
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b448304.m3u8
