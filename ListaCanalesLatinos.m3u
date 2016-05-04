@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch119.jpg",Fight Sport
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.vibee.tv/wp-content/uploads/2015/10/welove210.png",Vibee TV Music
 http://46.101.21.42:8081/live/live2/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.dreamtv.com.tr/content/frontEnd/images/dream-tv-logo.png",Dream TV
