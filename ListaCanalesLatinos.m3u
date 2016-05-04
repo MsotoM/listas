@@ -8,7 +8,7 @@ http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b448304.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UCV_HD_2014.png/200px-UCV_HD_2014.png",UCV HD
 http://movilstream.digitalproserver.com/ucvtv//livestream1/chunklist.m3u8?wowzasessionid=784301652
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png",TVN 
-http://edge-11-vtr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b180000.m3u8
+http://edge-21-vtr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-tvnint.png",TVN Internacional
 http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-mega.png",MEGA 
