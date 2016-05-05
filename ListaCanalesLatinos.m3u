@@ -1,8 +1,26 @@
 #EXTM3U
-#EXTINF:-1, CDF HD
+#EXTINF:-1, CDF HD (solo partidos)
 https://video08-lax.streamup.com/app/lalolanda999s-stream_aac/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-RncDDueyS5I/UyxhJ9xXoPI/AAAAAAAAAQs/tc38_oIIm8A/s1600/login_logo.png", LOS SIMPSONS (WEBTV)
-http://latino-webtv.ml/live/simpsons.m3u8?
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TeleAmiga_logo.png/245px-TeleAmiga_logo.png", TeleAmiga
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_hv_tv.png", hvTV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://www.aupaysdeslangues.fr/wp-content/uploads/2015/10/BBC-World-News.png", BBC World News [usa]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://www.igualavos.com.co/img/logo-loveu.png", Canal U de Antioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://www.cablenoticias.tv/images/logoCableCabezote.png", CableNoticias HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:0 tvg-logo="https://www.cosmovision.tv/wp-content/themes/cosmovision/images/logo-cosmovision.png", CosmoVision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://www.ipuntotv.com/IMAGES/Sun-Channel-HD-2013.png", SunChannel HD 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png", El Tiempo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.sctech.es/wp-content/uploads/2015/01/logo-une.png", Une Manizales
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/LOGO-VMASTV.jpeg", VMas TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg", Radio Carolina (CAM)
@@ -163,8 +181,8 @@ http://stream.ssh101.com:1935/live/tutvSky1/chunklist.m3u8?token=e9qiulBSqKVq2vf
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:0 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch119.jpg",Fight Sport
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports.png", WINSPORT
-http://latino-webtv.ml/live/win.m3u8?
+#EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports.png", WinSport
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN.png",ESPN SD
 http://stream.ssh101.com:1935/live/rovaldimix/playlist.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN.png",ESPN (TP)
@@ -349,10 +367,14 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w658754370.m3u8
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_8726_7_1934.png",TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png",TRENDY (TP)
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png",Trendy Channel 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png",Trendy Channel (TotalPlay)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/TVE.jpg",TVE (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+#EXTINF:0 tvg-logo=#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20De%20Las%20Estrellas%20HD%20T-K.png",Canal de las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20De%20Las%20Estrellas%20HD%20T-K.png",CANAL DE LAS ESTRELLAS (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://es.spongepedia.org/images/5/58/Canal5.png",CANAL 5 (TP)
