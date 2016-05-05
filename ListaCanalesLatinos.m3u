@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, CDF HD (solo partidos)
+#EXTINF:-1 tvg-logo="http://st2.depositphotos.com/2398103/5729/v/110/depositphotos_57294545-Test-icon.jpg", CDF HD (solo partidos)
 https://video08-lax.streamup.com/app/lalolanda999s-stream_aac/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TeleAmiga_logo.png/245px-TeleAmiga_logo.png", TeleAmiga
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
