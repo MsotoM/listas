@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://st2.depositphotos.com/2398103/5729/v/110/depositphotos_57294545-Test-icon.jpg", CDF HD (solo partidos)
 https://video08-lax.streamup.com/app/lalolanda999s-stream_aac/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TeleAmiga_logo.png/245px-TeleAmiga_logo.png", TeleAmiga
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_hv_tv.png", hvTV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:0 tvg-logo="http://www.aupaysdeslangues.fr/wp-content/uploads/2015/10/BBC-World-News.png", BBC World News [usa]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:0 tvg-logo="http://www.igualavos.com.co/img/logo-loveu.png", Canal U de Antioquia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:0 tvg-logo="http://www.cablenoticias.tv/images/logoCableCabezote.png", CableNoticias HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:0 tvg-logo="https://www.cosmovision.tv/wp-content/themes/cosmovision/images/logo-cosmovision.png", CosmoVision
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
-#EXTINF:0 tvg-logo="http://www.ipuntotv.com/IMAGES/Sun-Channel-HD-2013.png", SunChannel HD 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png", El Tiempo TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://www.sctech.es/wp-content/uploads/2015/01/logo-une.png", Une Manizales
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/LOGO-VMASTV.jpeg", VMas TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg", Radio Carolina (CAM)
@@ -315,6 +295,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/E_zpsoii78ynn.png",E! (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="http://www.ipuntotv.com/IMAGES/Sun-Channel-HD-2013.png", SunChannel HD 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/aye.png",A&E (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/TRU%20TV%20T-K.png", TRUTV (TP)
@@ -407,6 +389,14 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/072013/antena_3.png",ANTENA 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TeleAmiga_logo.png/245px-TeleAmiga_logo.png", TeleAmiga
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Logo_hv_tv.png", hvTV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://www.igualavos.com.co/img/logo-loveu.png", Canal U de Antioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:0 tvg-logo="https://www.cosmovision.tv/wp-content/themes/cosmovision/images/logo-cosmovision.png", CosmoVision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/GALAVISION%20HD.jpg",GALAVISION HD (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20Once%20HD.jpg",ONCE TV HD (TP)
@@ -419,6 +409,12 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/221.png",HOLA TV HD 
 http://66.151.244.79/super_pt.php?canal=1367&f=.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png", El Tiempo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.sctech.es/wp-content/uploads/2015/01/logo-une.png", Une Manizales
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/LOGO-VMASTV.jpeg", VMas TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_Azteca_13_HD_2014.svg/150px-Logo_Azteca_13_HD_2014.svg.png",El Trece HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png",Ocho TV
@@ -427,6 +423,10 @@ http://216.227.135.186:1935/canal8/smil:canal8.smil/playlist.m3u8
 http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/listas/master/photo.jpg",JASMIN CHANNEL HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:0 tvg-logo="http://www.aupaysdeslangues.fr/wp-content/uploads/2015/10/BBC-World-News.png", BBC World News [usa]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://www.cablenoticias.tv/images/logoCableCabezote.png", CableNoticias HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/az_noticias-mediano.png",AZ Noticias HD
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/7547667_300x300.jpg",DW LATINOAMERICA
