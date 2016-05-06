@@ -355,7 +355,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/TVE.jpg",TVE (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:0 tvg-logo=#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20De%20Las%20Estrellas%20HD%20T-K.png",Canal de las Estrellas
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20De%20Las%20Estrellas%20HD%20T-K.png",Canal de las Estrellas
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Canal%20De%20Las%20Estrellas%20HD%20T-K.png",CANAL DE LAS ESTRELLAS (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
