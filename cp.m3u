@@ -11,6 +11,8 @@ http://ltxplayer.ga:84/cp/MundoFoxSD/chunklist_w1730531252_b1000000.m3u8/secureh
 http://ltxplayer.ga:84/cp/FOX1LASD/chunklist_w921652898_b1000000.m3u8/securehash=sGbw1Lmsv-aFooKp6_f5XAJGqSbQV8lvTimfMKLJC54%3D&securestarttime=1462543329&secureendtime=1462550529&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, Fox Movies
 http://ltxplayer.ga:84/cp/FOXMoviesLASD/chunklist_w799774578_b1000000.m3u8/securehash=MPZCv6gLcv_4VLBXlajZEeAuXH1p4G9TEYIPuXzIIKU%3D&securestarttime=1462549272&secureendtime=1462556472&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, Fox Family
+http://ltxplayer.ga:84/cp/FOXFamilyLASD/chunklist_w456795157_b1000000.m3u8/securehash=dSMGqYA7lvcHzdv0bs-XQqr2Rt5zcTLvsIaRtaEfA1Q%3D&securestarttime=1462549845&secureendtime=1462557045&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, Fox Action
 http://ltxplayer.ga:84/cp/FOXACTIONLASD/chunklist_w927583360_b1000000.m3u8/securehash=-oZYmu9ZWOqU7I4TEOVx29SA1iaLnq3QgSED9l8tg2Y%3D&securestarttime=1462546782&secureendtime=1462553982&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF=-1, Fox Cinema
