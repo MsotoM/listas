@@ -7,13 +7,15 @@ http://ltxplayer.ga:84/cp/HBOSignatureLASD/chunklist_w441693191_b1000000.m3u8/se
 http://ltxplayer.ga:84/cp/HBOPlusLASD/chunklist_w1319758396_b1000000.m3u8/securehash=bnZ33BstClGmgead8BcdYxPQIvpUwViiOv2FiRfNt6Q%3D&securestarttime=1462548338&secureendtime=1462555538&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, MUNDOFOX
 http://ltxplayer.ga:84/cp/MundoFoxSD/chunklist_w1730531252_b1000000.m3u8/securehash=IpctX4r_x2kUZNqiQ5WEdbWPAEC4uNVuwPuGDAQURY0%3D&securestarttime=1462545217&secureendtime=1462552417&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, FOX1
+#EXTINF:-1, Fox1
 http://ltxplayer.ga:84/cp/FOX1LASD/chunklist_w921652898_b1000000.m3u8/securehash=sGbw1Lmsv-aFooKp6_f5XAJGqSbQV8lvTimfMKLJC54%3D&securestarttime=1462543329&secureendtime=1462550529&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, FOX ACTION
+#EXTINF:-1, Fox Action
 http://ltxplayer.ga:84/cp/FOXACTIONLASD/chunklist_w927583360_b1000000.m3u8/securehash=-oZYmu9ZWOqU7I4TEOVx29SA1iaLnq3QgSED9l8tg2Y%3D&securestarttime=1462546782&secureendtime=1462553982&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF=-1, Fox Cinema
 http://ltxplayer.ga:84/cp/FoxCinemaSD/chunklist_w1496762303_b1000000.m3u8/securehash=_maK3H3GiuZG4YzeerDdWAXq565liY_eBL4XbvLR6-U%3D&securestarttime=1462548670&secureendtime=1462555870&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, FOXLIFESD
+#EXTING:-1, Fox Comedy
+http://ltxplayer.ga:84/cp/FOXComedyLASD/chunklist_w1273670706_b1000000.m3u8/securehash=_jnCBLDDDdZ1JOOh7x270v6vmtAytTTVgZaWj-Od6VY%3D&securestarttime=1462549004&secureendtime=1462556204&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, Fox Life
 http://ltxplayer.ga:84/cp/FoxLifeSD/chunklist_w939726822_b1000000.m3u8/securehash=DbjxLYzG0CGq2tPQ_0jZdipMVyzNWXm9v1ULtr7MkAA%3D&securestarttime=1462546182&secureendtime=1462553382&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, FX
 http://ltxplayer.ga:84/cp/FXLASD/chunklist_w2097209706_b1000000.m3u8/securehash=yx-6g1wGWRZ3b87k7sFUW9r4mso76bTygl6h6ePkDts%3D&securestarttime=1462546033&secureendtime=1462553233&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
