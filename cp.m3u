@@ -37,6 +37,8 @@ http://ltxplayer.ga:84/cp/NickJrLASD/chunklist_w551684547_b1000000.m3u8/secureha
 http://ltxplayer.ga:84/cp/CartoonNetworkLASD/chunklist_w2009292269_b1000000.m3u8/securehash=12ny70f9aegdXNV_zh6wujZOiq70boqDaVuZWvc9wec%3D&securestarttime=1462545340&secureendtime=1462552540&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, TOONCAST
 http://ltxplayer.ga:84/cp/TooncastSD/chunklist_w1855305396_b1000000.m3u8/securehash=s6nDar-dpwgzym9GuU758gnIBrowQ1nOBUhwGeDUGKY%3D&securestarttime=1462547177&secureendtime=1462554377&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, Tcm
+http://ltxplayer.ga:84/cp/TCMSD/chunklist_w300654067_b1000000.m3u8/securehash=Wj3bugkOLFpBd0NJetvh3QI775p6NBx-b26VB9_t0QU%3D&securestarttime=1462551618&secureendtime=1462558818&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, Fox Sports 2
 http://ltxplayer.ga:84/cp/FoxSports2SD/chunklist_w589930966_b1000000.m3u8/securehash=uhye7pKsWaASkD21kM2GWUGxpZ2aqrugyrgrxPh_dX4%3D&securestarttime=1462551093&secureendtime=1462558293&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, Fox Sports 3
