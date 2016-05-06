@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, HBOFAMILY
+http://ltxplayer.ga:84/cp/HBOFamilyLASD/playlist.m3u8/securehash=gaxpe4JCUsG23PPw-XatjOIyYUW1iGysCaYL-bbaOHI=&securestarttime=1462547779&secureendtime=1462554979&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, HBOSIGNATURE
+http://ltxplayer.ga:84/cp/HBOSignatureLASD/chunklist_w441693191_b1000000.m3u8/securehash=3lSTTh2Zx7xU2DOn6Zcq4Kx_PxjMTW86WNb9adGyVA4%3D&securestarttime=1462547867&secureendtime=1462555067&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, FOXSPORT 3
+http://ltxplayer.ga:84/cp/FoxSports3SD/chunklist_w153467000_b1000000.m3u8/securehash=3fkqgs5_FVcg1tddxFfb80TSe-J7NaHzWUe6Kt1PYpA%3D&securestarttime=1462547536&secureendtime=1462554736&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, SIFY
+http://ltxplayer.ga:84/cp/SyFyLASD/chunklist_w1743640635_b1000000.m3u8/securehash=2n2atmwVbWH2c8P2OOKNxxjTUDelmgBH-lCPeJTWIlQ%3D&securestarttime=1462547675&secureendtime=1462554875&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, FOX1
 http://ltxplayer.ga:84/cp/FOX1LASD/chunklist_w921652898_b1000000.m3u8/securehash=sGbw1Lmsv-aFooKp6_f5XAJGqSbQV8lvTimfMKLJC54%3D&securestarttime=1462543329&secureendtime=1462550529&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, FOX ACTION
