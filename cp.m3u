@@ -5,31 +5,33 @@ http://ltxplayer.ga:84/cp/HBOFamilyLASD/playlist.m3u8/securehash=gaxpe4JCUsG23PP
 http://ltxplayer.ga:84/cp/HBOSignatureLASD/chunklist_w441693191_b1000000.m3u8/securehash=3lSTTh2Zx7xU2DOn6Zcq4Kx_PxjMTW86WNb9adGyVA4%3D&securestarttime=1462547867&secureendtime=1462555067&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, HBO PLUS
 http://ltxplayer.ga:84/cp/HBOPlusLASD/chunklist_w1319758396_b1000000.m3u8/securehash=bnZ33BstClGmgead8BcdYxPQIvpUwViiOv2FiRfNt6Q%3D&securestarttime=1462548338&secureendtime=1462555538&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, FOXSPORT 3
-http://ltxplayer.ga:84/cp/FoxSports3SD/chunklist_w153467000_b1000000.m3u8/securehash=3fkqgs5_FVcg1tddxFfb80TSe-J7NaHzWUe6Kt1PYpA%3D&securestarttime=1462547536&secureendtime=1462554736&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, SIFY
-http://ltxplayer.ga:84/cp/SyFyLASD/chunklist_w1743640635_b1000000.m3u8/securehash=2n2atmwVbWH2c8P2OOKNxxjTUDelmgBH-lCPeJTWIlQ%3D&securestarttime=1462547675&secureendtime=1462554875&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, MUNDOFOX
+http://ltxplayer.ga:84/cp/MundoFoxSD/chunklist_w1730531252_b1000000.m3u8/securehash=IpctX4r_x2kUZNqiQ5WEdbWPAEC4uNVuwPuGDAQURY0%3D&securestarttime=1462545217&secureendtime=1462552417&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, FOX1
 http://ltxplayer.ga:84/cp/FOX1LASD/chunklist_w921652898_b1000000.m3u8/securehash=sGbw1Lmsv-aFooKp6_f5XAJGqSbQV8lvTimfMKLJC54%3D&securestarttime=1462543329&secureendtime=1462550529&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, FOX ACTION
 http://ltxplayer.ga:84/cp/FOXACTIONLASD/chunklist_w927583360_b1000000.m3u8/securehash=-oZYmu9ZWOqU7I4TEOVx29SA1iaLnq3QgSED9l8tg2Y%3D&securestarttime=1462546782&secureendtime=1462553982&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, NICKJR
-http://ltxplayer.ga:84/cp/NickJrLASD/chunklist_w551684547_b1000000.m3u8/securehash=4vCXbivZnMD2ZxWA4vMgD-S1TRaaLPfnZZJIaUh_J7k%3D&securestarttime=1462544809&secureendtime=1462552009&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, MUNDOFOX
-http://ltxplayer.ga:84/cp/MundoFoxSD/chunklist_w1730531252_b1000000.m3u8/securehash=IpctX4r_x2kUZNqiQ5WEdbWPAEC4uNVuwPuGDAQURY0%3D&securestarttime=1462545217&secureendtime=1462552417&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, CARTOON NETWORK LA
-http://ltxplayer.ga:84/cp/CartoonNetworkLASD/chunklist_w2009292269_b1000000.m3u8/securehash=12ny70f9aegdXNV_zh6wujZOiq70boqDaVuZWvc9wec%3D&securestarttime=1462545340&secureendtime=1462552540&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, FX
-http://ltxplayer.ga:84/cp/FXLASD/chunklist_w2097209706_b1000000.m3u8/securehash=yx-6g1wGWRZ3b87k7sFUW9r4mso76bTygl6h6ePkDts%3D&securestarttime=1462546033&secureendtime=1462553233&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, LIFETIME
-http://ltxplayer.ga:84/cp/LifetimeLASD/chunklist_w629443616_b1000000.m3u8/securehash=Re1Bf2grK0ZiufrVqskwo6xyugONdqeKerlWWbj6euw%3D&securestarttime=1462546040&secureendtime=1462553240&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF=-1, Fox Cinema
+http://ltxplayer.ga:84/cp/FoxCinemaSD/chunklist_w1496762303_b1000000.m3u8/securehash=_maK3H3GiuZG4YzeerDdWAXq565liY_eBL4XbvLR6-U%3D&securestarttime=1462548670&secureendtime=1462555870&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, FOXLIFESD
 http://ltxplayer.ga:84/cp/FoxLifeSD/chunklist_w939726822_b1000000.m3u8/securehash=DbjxLYzG0CGq2tPQ_0jZdipMVyzNWXm9v1ULtr7MkAA%3D&securestarttime=1462546182&secureendtime=1462553382&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, E!
-http://ltxplayer.ga:84/cp/EentertaimentSD/chunklist_w518855152_b1000000.m3u8/securehash=Wasi49UOGSvyduR3QjX9gBGWAujCzP1zthMZba5DGSk%3D&securestarttime=1462546411&secureendtime=1462553611&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, FX
+http://ltxplayer.ga:84/cp/FXLASD/chunklist_w2097209706_b1000000.m3u8/securehash=yx-6g1wGWRZ3b87k7sFUW9r4mso76bTygl6h6ePkDts%3D&securestarttime=1462546033&secureendtime=1462553233&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, SIFY
+http://ltxplayer.ga:84/cp/SyFyLASD/chunklist_w1743640635_b1000000.m3u8/securehash=2n2atmwVbWH2c8P2OOKNxxjTUDelmgBH-lCPeJTWIlQ%3D&securestarttime=1462547675&secureendtime=1462554875&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, NICKJR
+http://ltxplayer.ga:84/cp/NickJrLASD/chunklist_w551684547_b1000000.m3u8/securehash=4vCXbivZnMD2ZxWA4vMgD-S1TRaaLPfnZZJIaUh_J7k%3D&securestarttime=1462544809&secureendtime=1462552009&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, CARTOON NETWORK LA
+http://ltxplayer.ga:84/cp/CartoonNetworkLASD/chunklist_w2009292269_b1000000.m3u8/securehash=12ny70f9aegdXNV_zh6wujZOiq70boqDaVuZWvc9wec%3D&securestarttime=1462545340&secureendtime=1462552540&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, TOONCAST
 http://ltxplayer.ga:84/cp/TooncastSD/chunklist_w1855305396_b1000000.m3u8/securehash=s6nDar-dpwgzym9GuU758gnIBrowQ1nOBUhwGeDUGKY%3D&securestarttime=1462547177&secureendtime=1462554377&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, FOXSPORT 3
+http://ltxplayer.ga:84/cp/FoxSports3SD/chunklist_w153467000_b1000000.m3u8/securehash=3fkqgs5_FVcg1tddxFfb80TSe-J7NaHzWUe6Kt1PYpA%3D&securestarttime=1462547536&secureendtime=1462554736&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, LIFETIME
+http://ltxplayer.ga:84/cp/LifetimeLASD/chunklist_w629443616_b1000000.m3u8/securehash=Re1Bf2grK0ZiufrVqskwo6xyugONdqeKerlWWbj6euw%3D&securestarttime=1462546040&secureendtime=1462553240&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, E!
+http://ltxplayer.ga:84/cp/EentertaimentSD/chunklist_w518855152_b1000000.m3u8/securehash=Wasi49UOGSvyduR3QjX9gBGWAujCzP1zthMZba5DGSk%3D&securestarttime=1462546411&secureendtime=1462553611&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, ANIMAL PLANET
 http://ltxplayer.ga:84/cp/AnimalPlanetLASD/chunklist_w881675011_b1000000.m3u8/securehash=RgGQvcrDrepWclLFV5tArZ4DY5WUzi8jnA0-feUMH-4%3D&securestarttime=1462547068&secureendtime=1462554268&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
-#EXTINF:-1, DISCOVERY ID
+#EXTINF:-1, INVESTIGATION DISCOVERY
 http://ltxplayer.ga:84/cp/InvDiscoverySD/chunklist_w1278985522_b1000000.m3u8/securehash=n7_CtvNfnGpMe7BBfgYhxQ5i_vZm4Ayo5AIwo2_Mzeo%3D&securestarttime=1462548528&secureendtime=1462555728&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
