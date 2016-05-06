@@ -27,6 +27,8 @@ http://ltxplayer.ga:84/cp/FOXClassicsLASD/chunklist_w418828988_b1000000.m3u8/sec
 http://ltxplayer.ga:84/cp/FoxLifeSD/chunklist_w939726822_b1000000.m3u8/securehash=DbjxLYzG0CGq2tPQ_0jZdipMVyzNWXm9v1ULtr7MkAA%3D&securestarttime=1462546182&secureendtime=1462553382&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, FX
 http://ltxplayer.ga:84/cp/FXLASD/chunklist_w2097209706_b1000000.m3u8/securehash=yx-6g1wGWRZ3b87k7sFUW9r4mso76bTygl6h6ePkDts%3D&securestarttime=1462546033&secureendtime=1462553233&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF:-1, CineLatino
+http://ltxplayer.ga:84/cp/CineLatinoSD/chunklist_w1546435013_b1000000.m3u8/securehash=NERIVkzfzpb3AYAYID-c6p0LTvqaGPa1BsvU21nVRMQ%3D&securestarttime=1462551273&secureendtime=1462558473&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, Syfy
 http://ltxplayer.ga:84/cp/SyFyLASD/chunklist_w1743640635_b1000000.m3u8/securehash=2n2atmwVbWH2c8P2OOKNxxjTUDelmgBH-lCPeJTWIlQ%3D&securestarttime=1462547675&secureendtime=1462554875&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, Nick jr
