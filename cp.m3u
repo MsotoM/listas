@@ -5,6 +5,8 @@ http://ltxplayer.ga:84/cp/HBOFamilyLASD/playlist.m3u8/securehash=gaxpe4JCUsG23PP
 http://ltxplayer.ga:84/cp/HBOSignatureLASD/chunklist_w441693191_b1000000.m3u8/securehash=3lSTTh2Zx7xU2DOn6Zcq4Kx_PxjMTW86WNb9adGyVA4%3D&securestarttime=1462547867&secureendtime=1462555067&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, HBO Plus
 http://ltxplayer.ga:84/cp/HBOPlusLASD/chunklist_w1319758396_b1000000.m3u8/securehash=bnZ33BstClGmgead8BcdYxPQIvpUwViiOv2FiRfNt6Q%3D&securestarttime=1462548338&secureendtime=1462555538&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
+#EXTINF=-1, Max UP
+http://ltxplayer.ga:84/cp/MaxUPSD/chunklist_w1480489981_b1000000.m3u8/securehash=jydN6yD9qK3x0Q1cJhbayalDfLbl9_a-D0Gt190ifzI%3D&securestarttime=1462550166&secureendtime=1462557366&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, Mundo Fox
 http://ltxplayer.ga:84/cp/MundoFoxSD/chunklist_w1730531252_b1000000.m3u8/securehash=IpctX4r_x2kUZNqiQ5WEdbWPAEC4uNVuwPuGDAQURY0%3D&securestarttime=1462545217&secureendtime=1462552417&secureuserid=c9b5f8cd85a6fe52d89680d0cd53b80a
 #EXTINF:-1, Fox 1
