@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",LatinaTV
-http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/index_348_av-p.m3u8?
 #EXTINF:-1 tvg-logo="",HitTV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w756814814.m3u8?
 #EXTINF:-1 tvg-logo="",Willax TV
