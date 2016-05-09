@@ -133,6 +133,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE02.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1015.png",TNT SERIES (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1505.png",FILM ZONE
+http://104.131.117.246:8081/chuy/76/033-FilmZone/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1505.png",FILM ZONE HD (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE02.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1016.png",DE PELICULA HD (TP)
