@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",HitTV
+#EXTINF:-1 tvg-logo="http://www.hitfm.es/files/HITtv.jpg",HitTV (test)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w756814814.m3u8?
-#EXTINF:-1 tvg-logo="",Willax TV
-http://m.mediastream.pe/vv_willax/livestream/master.m3u8?
-#EXTINF:-1 tvg-logo="",Efekto TV HD
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/55/Efekto_TV_HD.png",Efekto TV HD (test)
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8?
-#EXTINF:-1 tvg-logo="",Telecaribe
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TDcVyjx.png",Telecaribe (test)
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/chunklist_b750000.m3u8?
-#EXTINF:-1 tvg-logo="",El Pingüino
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/El-Pinguino-TV.png",El Pingüino (test)
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
-#EXTINF:-1 tvg-logo="",Life Design TV HD
+#EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",Life Design TV HD (test)
 http://edge.wms28.lorini.net/ldtv/ldtv/playlist.m3u8?
-#EXTINF:-1 tvg-logo="",Music Vox TV
+#EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg/ru-0-ra-230,230-n-Lv2051015XSLQ.jpg",Music Vox TV (test)
 http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w29203104.m3u8?
-#EXTINF:-1 tvg-logo="",PoloTV
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-n6SaW0iCeIs/AAAAAAAAAAI/AAAAAAAAAEU/SNocI1NZNj8/photo.jpg",PoloTV (test)
 http://s4w.deb1.scdn.smcloud.net/live/_definst_/polotv/chunklist_w2058504907.m3u8?
 #EXTINF:-1 tvg-logo="http://st2.depositphotos.com/2398103/5729/v/110/depositphotos_57294545-Test-icon.jpg", CDF HD (solo partidos)
 https://video08-lax.streamup.com/app/lalolanda999s-stream_aac/chunklist.m3u8
