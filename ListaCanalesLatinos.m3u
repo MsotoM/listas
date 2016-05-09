@@ -367,7 +367,9 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://tvdb.cl/wp-content/uploads/miami_tv_us.png",MiamiTV
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w658754370.m3u8
-#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_8726_7_1934.png",TELEMAX
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_8726_7_1934.png",Telemax
+http://enhd.co:1935/ilive/ilive/chunklist_w852058074.m3u8
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_8726_7_1934.png",Telemax (edge)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/IPTV/Imagen_3_400x400_zpsdr2ggyrs.png",Trendy Channel 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
