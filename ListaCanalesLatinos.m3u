@@ -9,7 +9,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w756814814.m3u8?
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-qfJfjGjelOg/VRyOzuz2Z2I/AAAAAAAABdo/VvVRbP1lDBs/s1600/melody-channel-tv.jpg",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png",Cantinazo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png",Cantinazo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png",MiMusica HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
