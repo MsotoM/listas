@@ -14,7 +14,7 @@ http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/chunklist_b75000
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/El-Pinguino-TV.png",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",Life Design TV HD
-http://edge.wms28.lorini.net/ldtv/ldtv/playlist.m3u8?
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg/ru-0-ra-230,230-n-Lv2051015XSLQ.jpg",Music Vox TV
 http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w29203104.m3u8?
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-n6SaW0iCeIs/AAAAAAAAAAI/AAAAAAAAAEU/SNocI1NZNj8/photo.jpg",PoloTV
