@@ -3,8 +3,10 @@
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w1858587078.m3u8
 #EXTINF:-1 tvg-logo="http://www.hitfm.es/files/HITtv.jpg",HitTV (test)
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w756814814.m3u8?
+#EXTINF:-1 tvg-logo="http://www.melodychannel.tv/images/logos.png",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/55/Efekto_TV_HD.png",Efekto TV HD (test)
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8?
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TDcVyjx.png",Telecaribe (test)
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/chunklist_b750000.m3u8?
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/El-Pinguino-TV.png",El Pingüino (test)
@@ -94,7 +96,7 @@ http://tvultimate.mx/live/samsung.php?id=1455&f=.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",Cbeebies (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tateti.png", TATETI
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/pakapaka.png",PAKAPAKA
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",Discovery Kids (TVU)
@@ -341,8 +343,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/224.png", Glitz (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1732.png",DISCOVERY CHANNEL (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1732.png",Discovery Channel Español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20THEATER.jpg",DISCOVERY THEATER (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20WORLD%20T-K.png",DISCOVERY WORLD (TP)
@@ -410,7 +412,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/AZTECA%2013.jpg",AZTECA 13 (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%2040%20HD.jpg",PROYECTO 40
-http://urtmpkal-f.akamaihd.net:80/i/05i15qzql_1@149710/index_3_av-p.m3u8
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://sipse.com/galatv/images/galaTvCancun-LogoMed.png", GALA TV CANCUN
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sipse.com/galatv/images/galaTvMerida-LogoMed.png", GALA TV MERIDA
@@ -441,8 +443,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/AZTECA%2013%20HD.jpg",AZTECA 13 HD (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CANAL%2040%20HD.jpg",CANAL 40 HD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/MULTIMEDIOS%20TV%20HD%20T-K.jpg",MULTIMEDIOS TV HD (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/221.png",HOLA TV HD 
