@@ -9,6 +9,8 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/55/Efekto_TV_HD.png",Efekto TV HD
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8?
+#EXTINF:-1 tvg-logo="http://industriamusical.es/wp-content/uploads/2014/09/Tigo-Music.png",Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TDcVyjx.png",Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/chunklist_b750000.m3u8?
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/El-Pinguino-TV.png",El Pingüino
