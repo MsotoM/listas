@@ -1,24 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.colosalstereo.com/images/logo.png",Colosal TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w1858587078.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/130px-Telemedellin.svg.png",Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://www.hitfm.es/files/HITtv.jpg",HitTV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w756814814.m3u8?
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-qfJfjGjelOg/VRyOzuz2Z2I/AAAAAAAABdo/VvVRbP1lDBs/s1600/melody-channel-tv.jpg",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png",Cantinazo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png",MiMusica HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/55/Efekto_TV_HD.png",Efekto TV HD
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8?
 #EXTINF:-1 tvg-logo="http://industriamusical.es/wp-content/uploads/2014/09/Tigo-Music.png",Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TDcVyjx.png",Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/chunklist_b750000.m3u8?
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/El-Pinguino-TV.png",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",Life Design TV HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg/ru-0-ra-230,230-n-Lv2051015XSLQ.jpg",Music Vox TV
 http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w29203104.m3u8?
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-n6SaW0iCeIs/AAAAAAAAAAI/AAAAAAAAAEU/SNocI1NZNj8/photo.jpg",PoloTV
