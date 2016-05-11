@@ -10,67 +10,96 @@ http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 #EXTBG: #cccccc
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg",Radio Carolina Freaky Channel
+#EXTSIZE: Medium
 #EXTBG: #cccccc
 http://unlimited2-cl.dps.live/freakytv/freakytv.smil/freakytv2-hls/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://exiapi.cl/wp-content/uploads/2016/02/adn-logo.jpg",ADN (91.7 FM)
+#EXTSIZE: Medium
 #EXTBG: #cccccc
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png",LA RED
 #EXTBG: #000000
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b448304.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UCV_HD_2014.png/200px-UCV_HD_2014.png",UCV HD
+#EXTBG: #000000
 http://spd.eltelon.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png",TVN 
+#EXTBG: #000000
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png",TVN (vtr)
+#EXTBG: #000000
 http://edge-21-vtr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-tvnint.png",TVN Internacional
+#EXTBG: #000000
 http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-mega.png",MEGA 
+#EXTBG: #000000
 http://edge-91-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b600.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-mega.png",MEGA (vtr)
+#EXTBG: #000000
 http://edge-21-vtr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b900.m3u8?time=1461900172376
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-chv.png",CHV 
+#EXTBG: #000000
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-13uc.png",Canal 13HD
+#EXTBG: #000000
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-ext-13c.png", C13 CABLE
+#EXTBG: #000000
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:0 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tcsantacruz.png", TELECANAL STA CRUZ
+#EXTBG: #000000
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/El-Pinguino-TV.png",El Pingüino
+#EXTBG: #000000
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
+#EXTBG: #FCFCFC
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png",Disney Channel (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/316.png",Disney XD (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/322.png",Nick (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/337.png",Nick JR (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1002.png",Nick HD
+#EXTBG: #FCFCFC
 http://sicostopo.com/ichi134/view.m3u8?canal=315
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1002.png",Nick HD (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/Nicktoons_red_reflective.png" ,NickToons (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
 #EXTINF:0 player="html5" tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/304.png",Cartoon Network (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://www.getsatellite.com/channels/boomerang.png",Boomerang (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1000.png",Tooncast (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png",Tiin (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",Cbeebies (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tateti.png", TATETI
+#EXTBG: #FCFCFC
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/pakapaka.png",PAKAPAKA
+#EXTBG: #FCFCFC
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",Discovery Kids (TP)
+#EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodafone.co.nz/cms/images/sky/channels/movies-premiere.png",MOVIES PREMIERE
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
