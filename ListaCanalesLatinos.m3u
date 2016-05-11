@@ -4,6 +4,7 @@
 #EXTBG: #ff0000
 http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
+#EXTBG: #ffffff
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg",Radio Carolina Freaky Channel
 http://unlimited2-cl.dps.live/freakytv/freakytv.smil/freakytv2-hls/livestream1/chunks.m3u8?
