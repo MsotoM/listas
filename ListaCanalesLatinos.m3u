@@ -128,6 +128,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1012.jpg",FOX
 http://199.180.114.174:88/files/fox.m3u8
+#EXTINF:0 tvg-logo="http://oneplay.tv/uploads/video_thumbs/fox1hd.png",Fox 1 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE02.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1012.jpg",FOX E (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1012.jpg",FOX O (TP)
