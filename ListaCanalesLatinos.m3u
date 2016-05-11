@@ -1,13 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="http://sportsnonstop.com/wp-content/uploads/2015/01/eurosport_fr1.png",EuroSport Francia
-#EXTBG: #336699
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8?
-#EXTINF:-1 tvg-logo="http://gmkfreelogos.com/logos/E/img/Eurosport_British.gif",EuroSport 1 UK
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8?
-#EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Dubai-Sports-3.png",Dubai Sport 3
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?
-#EXTINF:-1, tvg-logo="https://x.pac-12.com/profiles/pac12/modules/features/pac12_standings/images/pac12.png",PAC 12 HD
-http://xrxs.net/video/live-p12netw-2328.m3u8
 #EXTINF:-1 tvg-logo="http://www.olympusat.com/sites/default/files/styles/network-super-expanded/public/tvargo_logos.png",TV Agro
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-SbrVtLVyYHI/UL0oj-nStKI/AAAAAAAABME/0uLT4XEDojY/s1600/Logocaracol.svg.png",Caracol TV
@@ -195,66 +186,109 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/216.png",TBS (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK
+#EXTBG: #FFAB00
 http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK 2
+#EXTBG: #FFAB00
 http://stream.ssh101.com:1935/live/tutvSky1/chunklist.m3u8?token=e9qiulBSqKVq2vfDxnMcdExpqS4Bp+lQa+VJkLh00bpJifjSesRx6F3qXnCEJfrFb6vCGeDGYuBnwheZi7vyfOwRVH%2FxOPSOF4litB9rCF0mLzkKZq33xs2BgAtsgsRpQ6KuOHvS6gI0CQSBX1UGOsx0trMPvbkD3JKVC%2F2CFv0%3D%7CtpjxtCzXmSlCYzlt9T6Td+K0FPcIOQD34CNh%2Fz5DlDI%3D.m3u8
 #EXTINF:-1 tvg-logo="http://dzceab466r34n.cloudfront.net/Images/ArticleImages/103520-NFL-Now-logo-145.jpg",NFL NOW
+#EXTBG: #FFAB00
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:0 tvg-logo="http://www.singteltv.com.sg/_channels/pic_ch119.jpg",Fight Sport
+#EXTBG: #FFAB00
 http://118.97.183.222:1935/discover/fight/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.winsports.co/assets/img/win/winsports.png", WinSport
+#EXTBG: #FFAB00
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://sportsnonstop.com/wp-content/uploads/2015/01/eurosport_fr1.png",EuroSport Francia
+#EXTBG: #FFAB00
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8?
+#EXTINF:-1 tvg-logo="http://gmkfreelogos.com/logos/E/img/Eurosport_British.gif",EuroSport 1 UK
+#EXTBG: #FFAB00
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8?
+#EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Dubai-Sports-3.png",Dubai Sport 3
+#EXTBG: #FFAB00
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?
+#EXTINF:-1, tvg-logo="https://x.pac-12.com/profiles/pac12/modules/features/pac12_standings/images/pac12.png",PAC 12 HD
+#EXTBG: #FFAB00
+http://xrxs.net/video/live-p12netw-2328.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN.png",ESPN SD
+#EXTBG: #FFAB00
 http://stream.ssh101.com:1935/live/rovaldimix/playlist.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN.png",ESPN (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%20+.png", ESPN+ (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%202.png", ESPN 2 (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/626.png", ESPN 3 (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/604.png", FOX SPORTS CHILE
+#EXTBG: #FFAB00
 http://162.212.176.83:8080/sulavision.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/604.png", FOX SPORTS (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS 2 (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/170px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png", BEIN SPORT Ñ
+#EXTBG: #FFAB00
 http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-logo="http://d136swi17h0tnq.cloudfront.net/Upload/2016-02/48696423-60f9-4472-80bf-3460ac368096.png", FS1 (FOXSPORT)
+#EXTBG: #FFAB00
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/pxhd.png",PX  (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/m/1/1065.1447433721.png",EUROSPORT 1
+#EXTBG: #FFAB00
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tycsports.png", TYC SPORTS
+#EXTBG: #FFAB00
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/360.png", 360 DEPORTES
+#EXTBG: #FFAB00
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/dxtv.png", DXTV
+#EXTBG: #FFAB00
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/621.png", ESPN HD (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%202%20HD.jpg", ESPN 2 HD (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/626.png", ESPN 3 HD (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ESPN%20+%20HD.png", ESPN + HD (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS HD (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS 2 HD (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/pxhd.png",PX HD (TP)
+#EXTBG: #FFAB00
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/644.png",NBA (Nhl)
+#EXTBG: #FFAB00
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/aymsd.png",AYM SPORTS
+#EXTBG: #FFAB00
 http://66.151.244.79/super_pt.php?canal=1679&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/f1hd.png",FORMULA 1 HD
+#EXTBG: #FFAB00
 http://66.151.244.79/super_pt.php?canal=1647&f=.m3u8
 #EXTINF:-1 tvg-logo="http://1music.ro/wp-content/themes/m4/images/MC_red.png", 1MUSIC CHANNEL
+#EXTBG: #FFAB00
 http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/15203/logo_1%20music%20channel%202.png",1Music Channel Hungary
 http://stream.1music.hu/stream/1music.m3u8
