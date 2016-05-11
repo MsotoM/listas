@@ -1,12 +1,8 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="http://static.radio.at/images/broadcasts/74/d9/4221/c175.png", KroneHit HD
-http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/snt.png",SNT.
-http://d2i9c9jqs0al43.cloudfront.net/livesnt/livepy.smil/chunklist_b1016832.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/07/XHOPMA_2016.png",UVTv
-http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/index_1_av-p.m3u8?
-#EXTINF:-1 tvg-logo="http://st2.depositphotos.com/2398103/5729/v/110/depositphotos_57294545-Test-icon.jpg", CDF HD (solo partidos)
-https://video08-lax.streamup.com/app/lalolanda999s-stream_aac/chunklist.m3u8
+#EXTINF:0, LISTA OFICIAL
+#EXTSIZE: Big
+#EXTBG: #ff0000
+http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg",Radio Carolina Freaky Channel
@@ -263,6 +259,9 @@ http://66.151.244.79/super_pt.php?canal=1679&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/f1hd.png",FORMULA 1 HD
 #EXTBG: #FFAB00
 http://66.151.244.79/super_pt.php?canal=1647&f=.m3u8
+#EXTINF:-1 tvg-logo="http://static.radio.at/images/broadcasts/74/d9/4221/c175.png", KroneHit HD
+#EXTBG: #90B374
+http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
 #EXTINF:-1 tvg-logo="http://1music.ro/wp-content/themes/m4/images/MC_red.png", 1MUSIC CHANNEL
 #EXTBG: #90B374
 http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
@@ -540,6 +539,10 @@ http://videos.visionlatina.tv:1935/LiveATV/colo2/playlist.m3u8
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w1858587078.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/130px-Telemedellin.svg.png",Telemedellin
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/snt.png",SNT.
+http://d2i9c9jqs0al43.cloudfront.net/livesnt/livepy.smil/chunklist_b1016832.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/07/XHOPMA_2016.png",UVTv
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/index_1_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TDcVyjx.png",Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/chunklist_b750000.m3u8?
 #EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",Life Design TV HD
