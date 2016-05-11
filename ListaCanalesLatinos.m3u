@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,TEST RTMP
-rtmp://$OPT:rtmp-raw=rtmp://wow2.cl.digitalproserver.com/ucvtv/_definst_ playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/ucvtv/
 #EXTINF:-1 tvg-logo="http://sportsnonstop.com/wp-content/uploads/2015/01/eurosport_fr1.png", EuroSport Francia
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8?
 #EXTINF:-1 tvg-logo="http://gmkfreelogos.com/logos/E/img/Eurosport_British.gif",EuroSport 1 UK
