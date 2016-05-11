@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://sportsnonstop.com/wp-content/uploads/2015/01/eurosport_fr1.png", EuroSport Francia
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8?
+#EXTINF:-1 tvg-logo="http://gmkfreelogos.com/logos/E/img/Eurosport_British.gif",EuroSport 1 UK
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8?
+#EXTINF:-1 tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/10/Dubai-Sports-3.png",Dubai Sport 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?
 #EXTINF:-1 tvg-logo="http://www.olympusat.com/sites/default/files/styles/network-super-expanded/public/tvargo_logos.png",TV Agro
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.colosalstereo.com/images/logo.png",Colosal TV
