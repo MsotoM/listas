@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0, LISTA OFICIAL
+#EXTINF:0, LISTA OFICIAL Facebook IPTVChile
 #EXTSIZE: Big
 #EXTBG: #ff0000
 http://0.0.0.0
@@ -11,11 +11,11 @@ http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg",Radio Carolina Freaky Channel
 #EXTSIZE: Medium
-#EXTBG: #cccccc
+#EXTBG: #aaaaaa
 http://unlimited2-cl.dps.live/freakytv/freakytv.smil/freakytv2-hls/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://exiapi.cl/wp-content/uploads/2016/02/adn-logo.jpg",ADN (91.7 FM)
 #EXTSIZE: Medium
-#EXTBG: #cccccc
+#EXTBG: #aaaaaa
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png",LA RED
 #EXTBG: #000000
@@ -54,52 +54,52 @@ http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTBG: #000000
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png",Disney Channel (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/316.png",Disney XD (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/322.png",Nick (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/337.png",Nick JR (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1002.png",Nick HD
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://sicostopo.com/ichi134/view.m3u8?canal=315
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1002.png",Nick HD (TP)
 #EXTBG: #FCFCFC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/Nicktoons_red_reflective.png" ,NickToons (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
 #EXTINF:0 player="html5" tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/304.png",Cartoon Network (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://www.getsatellite.com/channels/boomerang.png",Boomerang (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1000.png",Tooncast (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png",Tiin (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",Cbeebies (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tateti.png", TATETI
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/pakapaka.png",PAKAPAKA
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",Discovery Kids (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodafone.co.nz/cms/images/sky/channels/movies-premiere.png",MOVIES PREMIERE
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
