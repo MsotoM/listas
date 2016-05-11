@@ -1,36 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="http://www.olympusat.com/sites/default/files/styles/network-super-expanded/public/tvargo_logos.png",TV Agro
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-SbrVtLVyYHI/UL0oj-nStKI/AAAAAAAABME/0uLT4XEDojY/s1600/Logocaracol.svg.png",Caracol TV
-http://videos.visionlatina.tv:1935/LiveATV/colo2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.colosalstereo.com/images/logo.png",Colosal TV
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w1858587078.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/130px-Telemedellin.svg.png",Telemedellin
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://tevemusicahd.com/images/teve_musica_logo_clear_med.png",Teve Musica HD
-http://ss6.domint.net:2086/tmtv_str/musica/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hitfm.es/files/HITtv.jpg",HitTV
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w756814814.m3u8?
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-qfJfjGjelOg/VRyOzuz2Z2I/AAAAAAAABdo/VvVRbP1lDBs/s1600/melody-channel-tv.jpg",Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png",Cantinazo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png",MiMusica HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/55/Efekto_TV_HD.png",Efekto TV HD
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8?
-#EXTINF:-1 tvg-logo="http://industriamusical.es/wp-content/uploads/2014/09/Tigo-Music.png",Tigo Music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TDcVyjx.png",Telecaribe
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/chunklist_b750000.m3u8?
-#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/El-Pinguino-TV.png",El Pingüino
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",Life Design TV HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg/ru-0-ra-230,230-n-Lv2051015XSLQ.jpg",Music Vox TV
-http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w29203104.m3u8?
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-n6SaW0iCeIs/AAAAAAAAAAI/AAAAAAAAAEU/SNocI1NZNj8/photo.jpg",PoloTV
-http://s4w.deb1.scdn.smcloud.net/live/_definst_/polotv/chunklist_w2058504907.m3u8?
 #EXTINF:-1 tvg-logo="http://st2.depositphotos.com/2398103/5729/v/110/depositphotos_57294545-Test-icon.jpg", CDF HD (solo partidos)
 https://video08-lax.streamup.com/app/lalolanda999s-stream_aac/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
@@ -61,6 +29,8 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:0 tvg-logo="http://noquierouser.com/tvcl/logos/cl-reg-tcsantacruz.png", TELECANAL STA CRUZ
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/El-Pinguino-TV.png",El Pingüino
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://pcm-tv.com/news/wp-content/uploads/2014/04/FailArmy1.jpg", FAILARMY TV
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
@@ -288,85 +258,151 @@ http://66.151.244.79/super_pt.php?canal=1679&f=.m3u8
 #EXTBG: #FFAB00
 http://66.151.244.79/super_pt.php?canal=1647&f=.m3u8
 #EXTINF:-1 tvg-logo="http://1music.ro/wp-content/themes/m4/images/MC_red.png", 1MUSIC CHANNEL
-#EXTBG: #FFAB00
+#EXTBG: #90B374
 http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/15203/logo_1%20music%20channel%202.png",1Music Channel Hungary
+#EXTBG: #90B374
 http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:0 tvg-logo="http://www.vibee.tv/wp-content/uploads/2015/10/welove210.png",Vibee TV Music
+#EXTBG: #90B374
 http://46.101.21.42:8081/live/live2/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.dreamtv.com.tr/content/frontEnd/images/dream-tv-logo.png",Dream TV
+#EXTBG: #90B374
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0 tvg-logo="http://pullzone.vydiainc.netdna-cdn.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-10-at-4.32.52-PM-e1441917429231.png",DOT DANCE
+#EXTBG: #90B374
 http://live.dotdance.cdnvideo.ru/dotdance/dotdance.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/sitv-honduras.jpg", SITV!
+#EXTBG: #90B374
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png", CAPITAL TV
+#EXTBG: #90B374
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://www.m2o.it/includes/2014/images/logo_down14.gif", M2O 
+#EXTBG: #90B374
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+#EXTINF:-1 tvg-logo="http://tevemusicahd.com/images/teve_musica_logo_clear_med.png",Teve Musica HD
+#EXTBG: #90B374
+http://ss6.domint.net:2086/tmtv_str/musica/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hitfm.es/files/HITtv.jpg",HitTV
+#EXTBG: #90B374
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chunklist_w756814814.m3u8?
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-qfJfjGjelOg/VRyOzuz2Z2I/AAAAAAAABdo/VvVRbP1lDBs/s1600/melody-channel-tv.jpg",Melody Channel
+#EXTBG: #90B374
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png",Cantinazo
+#EXTBG: #90B374
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png",MiMusica HD
+#EXTBG: #90B374
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/5/55/Efekto_TV_HD.png",Efekto TV HD
+#EXTBG: #90B374
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8?
+#EXTINF:-1 tvg-logo="http://industriamusical.es/wp-content/uploads/2014/09/Tigo-Music.png",Tigo Music
+#EXTBG: #90B374
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://t-eska.cdn.smcloud.net/common/L/v/s/Lv2051015XSLQ.jpg/ru-0-ra-230,230-n-Lv2051015XSLQ.jpg",Music Vox TV
+#EXTBG: #90B374
+http://s4w.deb1.scdn.smcloud.net/live/vox2/stream1/chunklist_w29203104.m3u8?
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-n6SaW0iCeIs/AAAAAAAAAAI/AAAAAAAAAEU/SNocI1NZNj8/photo.jpg",PoloTV
+#EXTBG: #90B374
+http://s4w.deb1.scdn.smcloud.net/live/_definst_/polotv/chunklist_w2058504907.m3u8?
 #EXTINF:-1 tvg-logo="http://www.vodtv.tv/wp-content/uploads/2015/04/RadioMontecarlo-iPad-150x150.png", RADIO MONTE CARLO
+#EXTBG: #90B374
 http://fms.105.net:1935/live/rmc1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alessandrocosta.eu/wp-content/uploads/2016/01/10425127_743430315753215_5677116141643620306_n-e1428656694193.png", FORMUSIC TV
+#EXTBG: #90B374
 http://wowza1.top-ix.org/quartaretetv1/formusicweb/chunklist_w1357120375.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvgratis.tv/logos/telemusica-hit-com-colombia.png", TELEMUSICA
+#EXTBG: #90B374
 http://186.155.200.118:1935/live/telemusica/chunklist_w1713664263.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png",PORTALFOXMIX TV 
+#EXTBG: #90B374
 http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/Vevo%20HD%201.jpg",VEVO HD 1
+#EXTBG: #90B374
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/Vevo%20HD%202.jpg",VEVO HD 2
+#EXTBG: #90B374
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://jo3k.com/pvr/Logos/Vevo%20HD%203.jpg",VEVO HD 3
+#EXTBG: #90B374
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://cs621523.vk.me/v621523509/1b1a8/pFrRIryC0-A.jpg",1HD MUSIC TV RUSSIA
+#EXTBG: #90B374
 http://80.250.191.10:1935/live/hlsstream343/chunklist_w55083004.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/ondalatina.png", ONDA ITALIANA
+#EXTBG: #90B374
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/djing.png", DJING
+#EXTBG: #90B374
 http://www.djing.com/tv/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.getmemedia.com/public/ideas/Opp/13389/heart-tv.jpg",HEART TV
+#EXTBG: #90B374
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/595716999881334785/gOokDoFF.jpg",REAL JAMAICAN TV
+#EXTBG: #90B374
 http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://videomusic.nl/mytools/uploads/2015/11/miami-music-tv-logo.png", MIAMI TV MUSIC
+#EXTBG: #90B374
 http://74.208.152.93/music/stream3/stream.m3u8
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2011/07/Virgin-Rock-Tv.jpg", VIRGIN MUSIC TV
+#EXTBG: #90B374
 http://wow01.105.net/live/virgin1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/ritmoson.png",RITMOSON  (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/mtvlive.png", MTV LIVE (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://tommysawkinsbadmp.files.wordpress.com/2012/10/logo_mtv.png",MTV (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://www.dafont.com/forum/attach/orig/4/5/454704.png",MTV HITS (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/vh1.png", VH1 CLASSIC (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/vh1.png", VH1 HD (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/telehit.png", TELEHIT (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/bandamax.png", BANDAMAX (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL1902/PROFILE01-65/37-20160409T085318.ts=-1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/170px-VH1_Classic_UK.svg.png",1CLASSICS (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/VH1_logo.svg/150px-VH1_logo.svg.png",VHR (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/mtvlive.png",MTV LIVE HD (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/telehit.png",TELEHIT HD (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/1CLASSICS%20HD.png",VHR HD (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/MTV_HD_Logo_2013.png",MTV HD (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="http://www.dafont.com/forum/attach/orig/4/5/454704.png",MTV HITS HD (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/170px-VH1_Classic_UK.svg.png",1CLASSICS HD (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/ritmoson.png",RITMOSON HD (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/bandamax.png",BANDAMAX HD (TP)
+#EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/E_zpsoii78ynn.png",E! (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
@@ -490,6 +526,18 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEM/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_Azteca_13_HD_2014.svg/150px-Logo_Azteca_13_HD_2014.svg.png",El Trece HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.olympusat.com/sites/default/files/styles/network-super-expanded/public/tvargo_logos.png",TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-SbrVtLVyYHI/UL0oj-nStKI/AAAAAAAABME/0uLT4XEDojY/s1600/Logocaracol.svg.png",Caracol TV
+http://videos.visionlatina.tv:1935/LiveATV/colo2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.colosalstereo.com/images/logo.png",Colosal TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w1858587078.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/130px-Telemedellin.svg.png",Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TDcVyjx.png",Telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/chunklist_b750000.m3u8?
+#EXTINF:-1 tvg-logo="http://www.lifedesigntv.com/images/lifedesing/logo.png",Life Design TV HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png",Ocho TV
 http://216.227.135.186:1935/canal8/smil:canal8.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/culiacan-tv.jpg",CANAL 3 CULIACAN HD
