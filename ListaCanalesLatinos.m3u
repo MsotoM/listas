@@ -3,14 +3,20 @@
 #EXTSIZE: Big
 #EXTBG: #ff0000
 http://0.0.0.0
+#EXTINF:-1 tvg-logo="http://pcm-tv.com/news/wp-content/uploads/2014/04/FailArmy1.jpg", FAILARMY TV
+#EXTBG: #cccccc
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
-#EXTBG: #ffffff
+#EXTBG: #cccccc
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg",Radio Carolina Freaky Channel
+#EXTBG: #cccccc
 http://unlimited2-cl.dps.live/freakytv/freakytv.smil/freakytv2-hls/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://exiapi.cl/wp-content/uploads/2016/02/adn-logo.jpg",ADN (91.7 FM)
+#EXTBG: #cccccc
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png",LA RED
+#EXTBG: #000000
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b448304.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UCV_HD_2014.png/200px-UCV_HD_2014.png",UCV HD
 http://spd.eltelon.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8?
@@ -34,8 +40,6 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/09/El-Pinguino-TV.png",El Pingüino
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://pcm-tv.com/news/wp-content/uploads/2014/04/FailArmy1.jpg", FAILARMY TV
-http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/313.png",Disney Channel (TP)
