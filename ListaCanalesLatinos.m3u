@@ -7,6 +7,8 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_18
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?
 #EXTINF:-1 tvg-logo="http://www.olympusat.com/sites/default/files/styles/network-super-expanded/public/tvargo_logos.png",TV Agro
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-SbrVtLVyYHI/UL0oj-nStKI/AAAAAAAABME/0uLT4XEDojY/s1600/Logocaracol.svg.png",Caracol TV
+http://videos.visionlatina.tv:1935/LiveATV/colo2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.colosalstereo.com/images/logo.png",Colosal TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w1858587078.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/130px-Telemedellin.svg.png",Telemedellin
