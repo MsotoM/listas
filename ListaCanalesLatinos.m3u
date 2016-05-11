@@ -343,7 +343,7 @@ http://80.250.191.10:1935/live/hlsstream343/chunklist_w55083004.m3u8
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/djing.png", DJING
 #EXTBG: #90B374
-http://www.djing.com/tv/index.m3u8
+http://www.djing.com/tv/04.m3u8
 #EXTINF:-1 tvg-logo="http://www.getmemedia.com/public/ideas/Opp/13389/heart-tv.jpg",HEART TV
 #EXTBG: #90B374
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
