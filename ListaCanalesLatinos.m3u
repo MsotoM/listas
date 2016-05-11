@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U $ExtFilter="RTMP"
+#EXTINF:-1", RTMP
+rtmp://$OPT:rtmp-raw=rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chboingtele5/2011/08/29/43256274-8828-4ec3-a413-643c4524998e
 #EXTINF:-1 tvg-logo="http://sportsnonstop.com/wp-content/uploads/2015/01/eurosport_fr1.png", EuroSport Francia
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8?
 #EXTINF:-1 tvg-logo="http://gmkfreelogos.com/logos/E/img/Eurosport_British.gif",EuroSport 1 UK
