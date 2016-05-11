@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="http://sportsnonstop.com/wp-content/uploads/2015/01/eurosport_fr1.png", EuroSport Francia
+#EXTINF:-1 tvg-logo="http://sportsnonstop.com/wp-content/uploads/2015/01/eurosport_fr1.png",EuroSport Francia
 #EXTBG: #336699
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8?
 #EXTINF:-1 tvg-logo="http://gmkfreelogos.com/logos/E/img/Eurosport_British.gif",EuroSport 1 UK
