@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXTINF:0, LISTA IPTVChile
-#EXTSIZE: Big
-#EXTBG: #ff0000
-http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://pcm-tv.com/news/wp-content/uploads/2014/04/FailArmy1.jpg", FAILARMY TV
 #EXTBG: #cccccc
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
@@ -10,11 +6,9 @@ http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 #EXTBG: #cccccc
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://lisa.eltelon.com/cache/media/18/poster_180x180-2.jpg",Radio Carolina Freaky Channel
-#EXTSIZE: Medium
 #EXTBG: #aaaaaa
 http://unlimited2-cl.dps.live/freakytv/freakytv.smil/freakytv2-hls/livestream1/chunks.m3u8?
 #EXTINF:-1 tvg-logo="http://exiapi.cl/wp-content/uploads/2016/02/adn-logo.jpg",ADN (91.7 FM)
-#EXTSIZE: Medium
 #EXTBG: #aaaaaa
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png",LA RED
