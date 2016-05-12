@@ -185,6 +185,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8?
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/604.png", FOX SPORTS CHILE
 http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",Fox Sports 2 testv
+http://sicostopo.com/ichi134/view.m3u8?canal=527&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/604.png", FOX SPORTS (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS 2 (TP)
