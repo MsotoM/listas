@@ -1,4 +1,6 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/675118307654135808/o4miP0Iy.jpg",Info7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pcm-tv.com/news/wp-content/uploads/2014/04/FailArmy1.jpg", FAILARMY TV
 #EXTBG: #cccccc
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
