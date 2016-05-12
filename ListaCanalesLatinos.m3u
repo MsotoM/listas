@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/675118307654135808/o4miP0Iy.jpg",Info7
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pcm-tv.com/news/wp-content/uploads/2014/04/FailArmy1.jpg", FAILARMY TV
-#EXTBG: #cccccc
+#EXTBG: #afddec
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
 #EXTBG: #afddec
@@ -481,6 +479,27 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/bandamax.png",BANDAMAX HD (TP)
 #EXTBG: #90B374
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/675118307654135808/o4miP0Iy.jpg",Info7
+#EXTBG: #8ab364
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.aupaysdeslangues.fr/wp-content/uploads/2015/10/BBC-World-News.png", BBC World News [usa]
+#EXTBG: #8ab364
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0 tvg-logo="http://www.cablenoticias.tv/images/logoCableCabezote.png", CableNoticias HD
+#EXTBG: #8ab364
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/az_noticias-mediano.png",AZ Noticias HD
+#EXTBG: #8ab364
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/7547667_300x300.jpg",DW Latinoamérica
+#EXTBG: #8ab364
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png", TVE 24 HORAS
+#EXTBG: #8ab364
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/c5n.png", C5N
+#EXTBG: #8ab364
+http://c5n.stweb.tv/c5n/live_media/.m3u8
 #EXTINF:-1 tvg-logo="http://i1305.photobucket.com/albums/s551/Jose_Miguel_Roman_Meneses/PREMIUM/E_zpsoii78ynn.png",E! (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
 #EXTINF:0 tvg-logo="http://www.ipuntotv.com/IMAGES/Sun-Channel-HD-2013.png", SunChannel HD 
@@ -623,15 +642,3 @@ http://216.227.135.186:1935/canal8/smil:canal8.smil/playlist.m3u8
 http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/listas/master/photo.jpg",JASMIN CHANNEL HD
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:0 tvg-logo="http://www.aupaysdeslangues.fr/wp-content/uploads/2015/10/BBC-World-News.png", BBC World News [usa]
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:0 tvg-logo="http://www.cablenoticias.tv/images/logoCableCabezote.png", CableNoticias HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/az_noticias-mediano.png",AZ Noticias HD
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/7547667_300x300.jpg",DW Latinoamérica
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png", TVE 24 HORAS
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/c5n.png", C5N
-http://c5n.stweb.tv/c5n/live_media/.m3u8
