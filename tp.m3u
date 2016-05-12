@@ -1,0 +1,228 @@
+#EXTM3U
+#EXTINF:0,[COLOR red][B]----TOTALPLAY----[/B][/COLOR]
+#EXTINF:-1tvg-logo="http://z.cdn.entutele.com/media/channels/medium/canal-2.gif" group-title="TOTALPLAY",Canal de las Estrellas
+http://sicostopo.com/ichi134/view.m3u8?canal=102&f=.m3u8
+#EXTINF:-1tvg-logo="http://z.cdn.entutele.com/media/channels/medium/canal-2.gif" group-title="TOTALPLAY", Trendy
+http://sicostopo.com/ichi134/view.m3u8?canal=279&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/foro-tv.gif" group-title="TOTALPLAY",Foro TV 
+http://sicostopo.com/ichi134/view.m3u8?canal=104&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/canal-5.gif" group-title="TOTALPLAY",Canal 5 
+http://sicostopo.com/ichi134/view.m3u8?canal=105&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/azteca-7.gif" group-title="TOTALPLAY",Azteca 7
+http://sicostopo.com/ichi134/view.m3u8?canal=107&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/el-trece.gif" group-title="TOTALPLAY",Azteca 13
+http://sicostopo.com/ichi134/view.m3u8?canal=23&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/gala-tv-hd.gif" group-title="TOTALPLAY",Gala TV
+http://sicostopo.com/ichi134/view.m3u8?canal=109&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/once-tv.gif" group-title="TOTALPLAY",Once TV
+http://sicostopo.com/ichi134/view.m3u8?canal=111&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/proyecto-40.gif" group-title="TOTALPLAY",Proyecto 40
+http://sicostopo.com/ichi134/view.m3u8?canal=140&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/teleformula.gif" group-title="TOTALPLAY",TeleFórmula
+http://sicostopo.com/ichi134/view.m3u8?canal=161&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/multimedios-monterrey.gif" group-title="TOTALPLAY",Multimedios Monterrey
+http://sicostopo.com/ichi134/view.m3u8?canal=167&f=.m3u8
+#EXTINF:-1tvg-logo="http://z.cdn.entutele.com/media/channels/medium/canal-2.gif" group-title="TOTALPLAY",HmX
+http://sicostopo.com/ichi134/view.m3u8?canal=169&f=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Totalplay.jpg" "group-title="TOTALPLAY",CANAL GUIA
+http://sicostopo.com/ichi134/view.m3u8?canal=1&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/unicable.gif" group-title="TOTALPLAY",Unicable
+http://sicostopo.com/ichi134/view.m3u8?canal=218&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/sony-hd.gif" group-title="TOTALPLAY",Sony
+http://sicostopo.com/ichi134/view.m3u8?canal=203&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/warner-hd.gif" group-title="TOTALPLAY",Warner HD
+http://sicostopo.com/ichi134/view.m3u8?canal=205&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/universal-hd.gif" group-title="TOTALPLAY",Universal HD
+http://sicostopo.com/ichi134/view.m3u8?canal=207&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/comedy-central-hd.gif" group-title="TOTALPLAY",Comedy Central
+http://sicostopo.com/ichi134/view.m3u8?canal=217&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/az-corazon.gif" group-title="TOTALPLAY",Az Corazón
+http://sicostopo.com/ichi134/view.m3u8?canal=250&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/az-corazon.gif" group-title="TOTALPLAY",AZMUNDO
+http://sicostopo.com/ichi134/view.m3u8?canal=276&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/bbc-entertainment.gif" group-title="TOTALPLAY",BBC Entertainment
+http://sicostopo.com/ichi134/view.m3u8?canal=253&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/e-entertainment-television.gif" group-title="TOTALPLAY",E! Entertainment
+http://sicostopo.com/ichi134/view.m3u8?canal=255&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/glitz.gif" group-title="TOTALPLAY",Glitz
+http://sicostopo.com/ichi134/view.m3u8?canal=270&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/distrito-comedia.gif" group-title="TOTALPLAY",Distrito Comedia
+http://sicostopo.com/ichi134/view.m3u8?canal=272&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/mas-chic.gif" group-title="TOTALPLAY",Más Chic
+http://sicostopo.com/ichi134/view.m3u8?canal=221&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif" group-title="TOTALPLAY",TLNovelas
+http://sicostopo.com/ichi134/view.m3u8?canal=275&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_(1991-2008).svg/160px-Logo_TVE_(1991-2008).svg.png",TVE
+http://sicostopo.com/ichi134/view.m3u8?canal=651&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/az-corazon.gif" group-title="TOTALPLAY",Hola TV
+http://sicostopo.com/ichi134/view.m3u8?canal=219&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/az-corazon.gif" group-title="TOTALPLAY",Fashion TV
+http://sicostopo.com/ichi134/view.m3u8?canal=220&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-kids.gif" group-title="TOTALPLAY",Discovery Kids
+http://sicostopo.com/ichi134/view.m3u8?canal=303&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cartoon-network.gif" group-title="TOTALPLAY",Cartoon Network
+http://sicostopo.com/ichi134/view.m3u8?canal=320&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/disney-jr.gif" group-title="TOTALPLAY",Disney Jr
+http://sicostopo.com/ichi134/view.m3u8?canal=308&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/nick-jr.gif" group-title="TOTALPLAY",Nick Jr.
+http://sicostopo.com/ichi134/view.m3u8?canal=310&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tooncast.gif" group-title="TOTALPLAY",Tooncast
+http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/disney-channel.gif" group-title="TOTALPLAY",Disney Channel
+http://sicostopo.com/ichi134/view.m3u8?canal=312&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/nick-hd.gif" group-title="TOTALPLAY",Nick HD
+http://sicostopo.com/ichi134/view.m3u8?canal=315&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/nickelodeon-nick.gif" group-title="TOTALPLAY",Nickelodeon
+http://sicostopo.com/ichi134/view.m3u8?canal=317&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/disney-xd.gif" group-title="TOTALPLAY",Disney XD
+http://sicostopo.com/ichi134/view.m3u8?canal=322&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/boomerang.gif" group-title="TOTALPLAY",Boomerang
+http://sicostopo.com/ichi134/view.m3u8?canal=324&f=.m3u8
+#EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20140703121952/logosfakeped/images/e/ec/Nicktoons_tv.png",Nicktoons
+http://sicostopo.com/ichi134/view.m3u8?canal=314&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tiin.gif" group-title="TOTALPLAY",TIIN
+http://sicostopo.com/ichi134/view.m3u8?canal=325&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cbeebies.gif" group-title="TOTALPLAY",CBeebies
+http://sicostopo.com/ichi134/view.m3u8?canal=305&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/discovery-theater-hd.gif" group-title="TOTALPLAY",Discovery Theater HD
+http://sicostopo.com/ichi134/view.m3u8?canal=351&f=.m3u8
+#EXTINF:-1 ttvg-shift=3 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/history-channel.gif" group-title="TOTALPLAY",History Channel
+http://sicostopo.com/ichi134/view.m3u8?canal=353&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif" group-title="TOTALPLAY",Investigation Discovery
+http://sicostopo.com/ichi134/view.m3u8?canal=263&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae.gif" group-title="TOTALPLAY",A&E
+http://sicostopo.com/ichi134/view.m3u8?canal=211&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/natgeo-wild.gif" group-title="TOTALPLAY",NatGeo Wild
+http://sicostopo.com/ichi134/view.m3u8?canal=355&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-channel.gif" group-title="TOTALPLAY",Discovery Channel
+http://sicostopo.com/ichi134/view.m3u8?canal=371&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/el-gourmet.gif" group-title="TOTALPLAY",Elgourmet
+http://sicostopo.com/ichi134/view.m3u8?canal=268&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-life.gif" group-title="TOTALPLAY",Fox Life
+http://sicostopo.com/ichi134/view.m3u8?canal=271&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/animal-planet.gif" group-title="TOTALPLAY",Animal Planet
+http://sicostopo.com/ichi134/view.m3u8?canal=373&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/home-and-health.gif" group-title="TOTALPLAY",Home & Health
+http://sicostopo.com/ichi134/view.m3u8?canal=374&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/natgeo.gif" group-title="TOTALPLAY",NatGeo
+http://sicostopo.com/ichi134/view.m3u8?canal=377&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/lifetime.gif" group-title="TOTALPLAY",Lifetime
+http://sicostopo.com/ichi134/view.m3u8?canal=379&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-science.gif" group-title="TOTALPLAY",Discovery Science
+http://sicostopo.com/ichi134/view.m3u8?canal=381&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-civilization.gif" group-title="TOTALPLAY",Discovery Civilization
+http://sicostopo.com/ichi134/view.m3u8?canal=382&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/discovery-turbo.gif" group-title="TOTALPLAY",Discovery Turbo
+http://sicostopo.com/ichi134/view.m3u8?canal=383&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-world-hd.gif" group-title="TOTALPLAY",Discovery World HD
+http://sicostopo.com/ichi134/view.m3u8?canal=356&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/wobi-tv.gif" group-title="TOTALPLAY",WOBI
+http://sicostopo.com/ichi134/view.m3u8?canal=387&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tlc.gif" group-title="TOTALPLAY",TLC
+http://sicostopo.com/ichi134/view.m3u8?canal=386&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/trutv-hd.gif" group-title="TOTALPLAY",TruTV HD
+http://sicostopo.com/ichi134/view.m3u8?canal=215&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif" group-title="TOTALPLAY",Fox
+http://sicostopo.com/ichi134/view.m3u8?canal=201&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/axn-hd.gif" group-title="TOTALPLAY",AXN HD
+http://sicostopo.com/ichi134/view.m3u8?canal=213&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif" group-title="TOTALPLAY",Universal Channel
+http://sicostopo.com/ichi134/view.m3u8?canal=256&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/syfy.gif" group-title="TOTALPLAY",SyFy
+http://sicostopo.com/ichi134/view.m3u8?canal=257&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/studio-universal.gif" group-title="TOTALPLAY",Studio Universal
+http://sicostopo.com/ichi134/view.m3u8?canal=492&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tbs.gif" group-title="TOTALPLAY",TBS
+http://sicostopo.com/ichi134/view.m3u8?canal=273&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tnt-hd.gif" group-title="TOTALPLAY",TNT HD
+http://sicostopo.com/ichi134/view.m3u8?canal=435&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx-hd.gif" group-title="TOTALPLAY",FX HD
+http://sicostopo.com/ichi134/view.m3u8?canal=209&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cinecanal-hd.gif" group-title="TOTALPLAY",Cinecanal HD
+http://sicostopo.com/ichi134/view.m3u8?canal=430&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-hd.gif" group-title="TOTALPLAY",Golden HD
+http://sicostopo.com/ichi134/view.m3u8?canal=436&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/the-film-zone-hd.gif" group-title="TOTALPLAY",The Film Zone HD
+http://sicostopo.com/ichi134/view.m3u8?canal=440&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/de-pelicula-hd.gif" group-title="TOTALPLAY",De Película HD
+http://sicostopo.com/ichi134/view.m3u8?canal=442&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/amc.gif" group-title="TOTALPLAY",AMC
+http://sicostopo.com/ichi134/view.m3u8?canal=444&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/space-hd.gif" group-title="TOTALPLAY",Space HD
+http://sicostopo.com/ichi134/view.m3u8?canal=445&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinecanal-w.gif" group-title="TOTALPLAY",Cinecanal
+http://sicostopo.com/ichi134/view.m3u8?canal=480&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinemax-w.gif" group-title="TOTALPLAY",Cinemax
+http://sicostopo.com/ichi134/view.m3u8?canal=481&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tnt.gif" group-title="TOTALPLAY",TNT
+http://sicostopo.com/ichi134/view.m3u8?canal=482&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-1-hd.gif" group-title="TOTALPLAY",Fox1 HD
+http://sicostopo.com/ichi134/view.m3u8?canal=415&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-action-hd.gif" group-title="TOTALPLAY",Fox Action HD
+http://sicostopo.com/ichi134/view.m3u8?canal=416&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-movies-hd.gif" group-title="TOTALPLAY",Fox Movies HD
+http://sicostopo.com/ichi134/view.m3u8?canal=417&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/golden-edge.gif" group-title="TOTALPLAY",Golden Edge
+http://sicostopo.com/ichi134/view.m3u8?canal=484&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/space.gif" group-title="TOTALPLAY",Space
+http://sicostopo.com/ichi134/view.m3u8?canal=491&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/isat.gif" group-title="TOTALPLAY",I.Sat
+http://sicostopo.com/ichi134/view.m3u8?canal=495&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tcm.gif" group-title="TOTALPLAY",TCM
+http://sicostopo.com/ichi134/view.m3u8?canal=496&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tcm.gif" group-title="TOTALPLAY",AZ Cinema
+http://sicostopo.com/ichi134/view.m3u8?canal=425&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fx.gif" group-title="TOTALPLAY",FX
+http://sicostopo.com/ichi134/view.m3u8?canal=258&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt-series.gif" group-title="TOTALPLAY",TNT Series
+http://sicostopo.com/ichi134/view.m3u8?canal=266&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-cinema.gif" group-title="TOTALPLAY",Fox Cinema
+http://sicostopo.com/ichi134/view.m3u8?canal=421&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-classics.gif" group-title="TOTALPLAY",Fox Classics
+http://sicostopo.com/ichi134/view.m3u8?canal=424&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/espn.gif" group-title="TOTALPLAY",ESPN
+http://sicostopo.com/ichi134/view.m3u8?canal=558&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/espn-2.gif" group-title="TOTALPLAY",ESPN 2
+http://sicostopo.com/ichi134/view.m3u8?canal=561&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-3.gif" group-title="TOTALPLAY",ESPN 3
+http://sicostopo.com/ichi134/view.m3u8?canal=520&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-hd.gif" group-title="TOTALPLAY",ESPN HD
+http://sicostopo.com/ichi134/view.m3u8?canal=516&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports.gif" group-title="TOTALPLAY",Fox Sports
+http://sicostopo.com/ichi134/view.m3u8?canal=522&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",Fox Sports 2
+http://sicostopo.com/ichi134/view.m3u8?canal=527&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY", Canal F1
+http://sicostopo.com/ichi134/view.m3u8?canal=511&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",El Garaje
+http://sicostopo.com/ichi134/view.m3u8?canal=269&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/aym-sports.gif" group-title="TOTALPLAY",AyM Sports
+http://sicostopo.com/ichi134/view.m3u8?canal=576&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",Telehit HD
+http://sicostopo.com/ichi134/view.m3u8?canal=702&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",,MTV
+http://sicostopo.com/ichi134/view.m3u8?canal=726&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",VH1
+http://sicostopo.com/ichi134/view.m3u8?canal=703&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",MTV Live
+http://sicostopo.com/ichi134/view.m3u8?canal=701&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",MTV Hits
+http://sicostopo.com/ichi134/view.m3u8?canal=727&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",VH1 Classics
+http://sicostopo.com/ichi134/view.m3u8?canal=728&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",AZ Clic
+http://sicostopo.com/ichi134/view.m3u8?canal=725&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",PX
+http://sicostopo.com/ichi134/view.m3u8?canal=528&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",Ritmoson
+http://sicostopo.com/ichi134/view.m3u8?canal=731&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",Bandamax
+http://sicostopo.com/ichi134/view.m3u8?canal=732&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",Milenio TV
+http://sicostopo.com/ichi134/view.m3u8?canal=603&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",Azteca Noticias
+http://sicostopo.com/ichi134/view.m3u8?canal=2&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",El Financiero
+http://sicostopo.com/ichi134/view.m3u8?canal=610&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/fox-sports-2.gif" group-title="TOTALPLAY",Uno Mas Uno
+http://sicostopo.com/ichi134/view.m3u8?canal=145&f=.m3u8
