@@ -72,7 +72,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
 #EXTBG: #336699
 http://sicostopo.com/ichi134/view.m3u8?canal=315
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1002.png",Nick HD (TP)
-#EXTBG: #FCFCFC
+#EXTBG: #336699
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/Nicktoons_red_reflective.png" ,NickToons (TP)
 #EXTBG: #336699
