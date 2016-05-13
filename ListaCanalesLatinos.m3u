@@ -47,10 +47,10 @@ http://sicostopo.com/ichi134/view.m3u8?canal=315
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/Nicktoons_red_reflective.png" ,NickToons (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8?
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cartoon-network.gif" group-title="TOTALPLAY",Cartoon Network TEST
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cartoon-network.gif",Cartoon Network (TP)
 http://sicostopo.com/ichi134/view.m3u8?canal=320&f=.m3u8
-#EXTINF:0 player="html5" tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/304.png",Cartoon Network (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cartoon-network.gif",Cartoon Network (TVU)
+http://tvultimate.mx/live/samsung.php?id=1483&f=.m3u8
 #EXTINF:0 tvg-logo="http://www.getsatellite.com/channels/boomerang.png",Boomerang (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1000.png",Tooncast (TP)
