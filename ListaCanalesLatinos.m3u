@@ -60,7 +60,7 @@ http://tvultimate.mx/live/samsung.php?id=1491&f=.m3u8
 #EXTINF:0 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tooncast.gif",Tooncast (TP)
 http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8
 #EXTINF:0 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tooncast.gif",Tooncast (TVU)
-http://tvultimate.mx/live/samsung.php?id=1499&f=.m3u8
+http://tvultimate.mx/live/samsung.php?id=1500&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png",Tiin (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",Cbeebies (TP)
@@ -364,8 +364,10 @@ http://sicostopo.com/ichi134/view.m3u8?canal=270&f=.m3u8
 http://tvultimate.mx/live/samsung.php?id=1424&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1732.png",Discovery Channel Español
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20THEATER.jpg",DISCOVERY THEATER (TP)
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20THEATER.jpg",Discovery Theater (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20THEATER.jpg",Discovery Theater (TVU)
+http://tvultimate.mx/live/samsung.php?id=1503&f=.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20WORLD%20T-K.png",DISCOVERY WORLD (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20SCIENCE%20HD.jpg", DISCOVERY SCIENCE (TP)
