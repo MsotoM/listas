@@ -35,7 +35,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/disney-channel.gif",Disney Channel (TP)
 http://sicostopo.com/ichi134/view.m3u8?canal=312&f=.m3u8
-#EXTINF:0 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/disney-channel.gif.png",Disney Channel (TVU)
+#EXTINF:0 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/disney-channel.gif",Disney Channel (TVU)
 http://tvultimate.mx/live/samsung.php?id=1467&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/316.png",Disney XD (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8?
