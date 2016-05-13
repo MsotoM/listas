@@ -231,8 +231,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8?
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/aymsd.png",AYM SPORTS
 http://66.151.244.79/super_pt.php?canal=1679&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/f1hd.png",FORMULA 1 HD
-http://66.151.244.79/super_pt.php?canal=1647&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/f1hd.png",F1 HD
+http://cdn.sstream.pw/live/formula1_aqz9n68/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://1music.ro/wp-content/themes/m4/images/MC_red.png", 1MUSIC CHANNEL
 http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/15203/logo_1%20music%20channel%202.png",1Music Channel Hungary
