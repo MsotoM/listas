@@ -137,10 +137,10 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
 http://199.180.114.174:88/files/amc.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1018.png",AMC HD (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/518.png",SPACE (TP)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/518.png",Space (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/519.png",SPACE HD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/519.png",Space (TVU)
+http://tvultimate.mx/live/samsung.php?id=1631&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/507.png",Cinecanal (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/507.png",Cinecanal (TVU)
