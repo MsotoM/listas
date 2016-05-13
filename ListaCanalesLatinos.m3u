@@ -462,8 +462,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.olympusat.com/sites/default/files/styles/network-super-expanded/public/tvargo_logos.png",TV Agro
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-SbrVtLVyYHI/UL0oj-nStKI/AAAAAAAABME/0uLT4XEDojY/s1600/Logocaracol.svg.png",Caracol TV
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-SbrVtLVyYHI/UL0oj-nStKI/AAAAAAAABME/0uLT4XEDojY/s1600/Logocaracol.svg.png",Caracol Internacional
 http://videos.visionlatina.tv:1935/LiveATV/colo2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-SbrVtLVyYHI/UL0oj-nStKI/AAAAAAAABME/0uLT4XEDojY/s1600/Logocaracol.svg.png",Caracol TV
+http://latino-webtv.ml/live/caracol.m3u8
+#EXTINF:-1 tvg-logo="http://www.galaxcentro.com/FM/tdt/RCN_HD.jpg",RCN
+http://latino-webtv.ml/live/rcn.m3u8
 #EXTINF:-1 tvg-logo="http://www.colosalstereo.com/images/logo.png",Colosal TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/chunklist_w1858587078.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/130px-Telemedellin.svg.png",Telemedellin
