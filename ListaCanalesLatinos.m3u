@@ -364,34 +364,52 @@ http://sicostopo.com/ichi134/view.m3u8?canal=270&f=.m3u8
 http://tvultimate.mx/live/samsung.php?id=1424&f=.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1732.png",Discovery Channel Español
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1732.png",Discovery Channel (TVU)
+http://tvultimate.mx/live/samsung.php?id=1520&f=.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20THEATER.jpg",Discovery Theater (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20THEATER.jpg",Discovery Theater (TVU)
 http://tvultimate.mx/live/samsung.php?id=1503&f=.m3u8
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20WORLD%20T-K.png",DISCOVERY WORLD (TP)
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20WORLD%20T-K.png",Discovery World (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20SCIENCE%20HD.jpg", DISCOVERY SCIENCE (TP)
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20WORLD%20T-K.png",Discovery World (TVU)
+http://tvultimate.mx/live/samsung.php?id=1516&f=.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20SCIENCE%20HD.jpg", Discovery Science (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20CIVILIZATION%20HD.jpg",DISCOVERY CIVILIZATION (TP)
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20SCIENCE%20HD.jpg", Discovery Science (TVU)
+http://tvultimate.mx/live/samsung.php?id=1539&f=.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/DISCOVERY%20CIVILIZATION%20HD.jpg",Discovery CIVILIZATION (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/736.png",DISCOVERY TURBO (TP)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/736.png",Discovery TURBO (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/229.png",DISCOVERY H&H (TP)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/229.png",Discovery H&H (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="http://www.prensario.tv/IMAGENES/Discovery/TLC_HD_logo.jpg",DISCOVERY TLC (TP)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/229.png",Discovery H&H (TVU)
+http://tvultimate.mx/live/samsung.php?id=1528&f=.m3u8
+#EXTINF:0 tvg-logo="http://www.prensario.tv/IMAGENES/Discovery/TLC_HD_logo.jpg",Discovery TLC (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8?
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/did.png",DISCOVERY ID (TP)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/did.png",Discovery ID (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="http://www.moonmentum.com/blog/wp-content/uploads/2013/02/HistoryChannel1.png",HISTORY (TP)
+#EXTINF:0 tvg-logo="http://www.moonmentum.com/blog/wp-content/uploads/2013/02/HistoryChannel1.png",History (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Natgeo%20T-K.jpg",NATGEO (TP)
+#EXTINF:0 tvg-logo="http://www.moonmentum.com/blog/wp-content/uploads/2013/02/HistoryChannel1.png",History (TVU)
+http://tvultimate.mx/live/samsung.php?id=1506&f=.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Natgeo%20T-K.jpg",National Geographic (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/nwild.png",NATGEO WILD (TP)
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/Natgeo%20T-K.jpg",National Geographic (TP)
+http://tvultimate.mx/live/samsung.php?id=1532&f=.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/nwild.png",Natgeo Wild  (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ANIMAL%20PLANET%20HD.png",ANIMAL PLANET (TP)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/nwild.png",Natgeo Wild (TVU)
+http://tvultimate.mx/live/samsung.php?id=1511&f=.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ANIMAL%20PLANET%20HD.png",Animal Planet (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/LIFETIME.png",LIFETIME (TP)
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/ANIMAL%20PLANET%20HD.png",Animal Planet (TVU)
+http://tvultimate.mx/live/samsung.php?id=1524&f=.m3u8
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/LIFETIME.png",Lifetime (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/LIFETIME.png",Lifetime (TVU)
+http://tvultimate.mx/live/samsung.php?id=1536&f=.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/WOBI%20T-K.jpg",WOBI (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/EL%20FINANCIERO%20BLOOMERANG.jpg",EL FINANCIERO BLOOMERANG (TP)
