@@ -54,7 +54,7 @@ http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png",Tiin (TP)
 http://sicostopo.com/ichi134/view.m3u8?canal=325&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",Cbeebies (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=305&f=.m3u8&profile=5&ms=15000
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tateti.png", TATETI
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/pakapaka.png",PAKAPAKA
@@ -96,21 +96,17 @@ http://sicostopo.com/ichi134/view.m3u8?canal=201&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1012.jpg",FOX O (TP)
 http://sicostopo.com/ichi134/view.m3u8?canal=251&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/561.png",FOX ACTION HD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=416&f=.m3u8&profile=5&ms=15000
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/559.png",FOX MOVIES HD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=417&f=.m3u8&profile=5&ms=15000
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/562.png",FOX CINEMA (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=421&f=.m3u8&profile=5&ms=15000
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/560.png",FOX CLASSICS (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=424&f=.m3u8&profile=5&ms=15000
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1013.png",FoxLife (TP)
-http://sicostopo.com/ichi134/view.m3u8?canal=271&f=.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1013.png",FoxLife (TVU)
-http://tvultimate.mx/live/samsung.php?id=1428&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=271&f=.m3u8&profile=5&ms=15000
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/502.png",TNT (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1014.png",TNT HD (TVU)
-http://tvultimate.mx/live/samsung.php?id=1620&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=482&f=.m3u8&profile=5&ms=15000
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1015.png",TNT SERIES (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1505.png",FILM ZONE
