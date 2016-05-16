@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://www.tvhoradada.com/images/logos/canales/xtrm.png",XTRM
+http://212.121.224.244:1935/sd-edge-1/smil:xtrm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvhoradada.com/images/logos/canales/panda.png",Canal Panda
+http://212.121.224.244:1935/sd-edge-1/smil:panda.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pcm-tv.com/news/wp-content/uploads/2014/04/FailArmy1.jpg", FAILARMY TV
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8?
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png",Redbull TV
