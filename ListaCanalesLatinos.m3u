@@ -12,7 +12,7 @@ http://unlimited2-cl.dps.live/freakytv/freakytv.smil/freakytv2-hls/livestream1/c
 #EXTINF:-1 tvg-logo="http://exiapi.cl/wp-content/uploads/2016/02/adn-logo.jpg",ADN (91.7 FM)
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-lared.png",LA RED
-http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklisfoxt_b1429163.m3u8
+http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b2129163.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UCV_HD_2014.png/200px-UCV_HD_2014.png",UCV HD
 http://spd.eltelon.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8?
 #EXTINF:-1 tvg-logo="http://noquierouser.com/tvcl/logos/cl-nac-tvn.png",TVN 
