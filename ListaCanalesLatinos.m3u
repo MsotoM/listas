@@ -34,35 +34,25 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/disney-channel.gif",Disney Channel (TP)
-http://sicostopo.com/ichi134/view.m3u8?canal=312&f=.m3u8
-#EXTINF:0 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/disney-channel.gif",Disney Channel (TVU)
-http://tvultimate.mx/live/samsung.php?id=1467&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=312&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/316.png",Disney XD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=322&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/322.png",Nick (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=317&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/337.png",Nick JR (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1002.png",Nick HD
-http://sicostopo.com/ichi134/view.m3u8?canal=315
+http://sicostopo.com/ichi134/view.m3u8?canal=310&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1002.png",Nick HD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=315&f=.m3u8&profile=5
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1d/Nicktoons_red_reflective.png" ,NickToons (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=314&f=.m3u8&profile=5
 #EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cartoon-network.gif",Cartoon Network (TP)
-http://sicostopo.com/ichi134/view.m3u8?canal=320&f=.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cartoon-network.gif",Cartoon Network (TVU)
-http://tvultimate.mx/live/samsung.php?id=1483&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=320&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="http://www.getsatellite.com/channels/boomerang.png",Boomerang (TP)
-http://sicostopo.com/ichi134/view.m3u8?canal=324&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png",Boomerang (TVU)
-http://tvultimate.mx/live/samsung.php?id=1491&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=324&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tooncast.gif",Tooncast (TP)
-http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8
-#EXTINF:0 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tooncast.gif",Tooncast (TVU)
-http://tvultimate.mx/live/samsung.php?id=1500&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png",Tiin (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=325&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",Cbeebies (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tateti.png", TATETI
@@ -70,7 +60,7 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/pakapaka.png",PAKAPAKA
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/330.png",Discovery Kids (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=303&f=.m3u8&profile=5
 #EXTINF:-1 tvg-logo="http://www.vodafone.co.nz/cms/images/sky/channels/movies-premiere.png",MOVIES PREMIERE
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://gild.wpengine.netdna-cdn.com/wp-content/uploads/2015/04/customer-logos-hbo.png", HBO
@@ -80,31 +70,31 @@ http://199.180.114.174:88/files/hbo235.m3u8
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/0/00/HBO_Family_new_logo.png",HBO FAMILY
 http://199.180.114.174:88/files/hbofamily453.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/210.png",SONY (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=203&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1206.png",WARNER HD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=205&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/218.png",UNIVERSAL (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=256&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1218.png",UNIVERSAL HD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE02.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=207&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/217.png",FX (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=258&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1217.png",FX HD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE02.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=209&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1011.png",AXN SD
 http://199.180.114.174:88/files/axn457.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1011.png",AXN HD (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=213&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/219.png",SYFY (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=257&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1012.jpg",FOX
 http://199.180.114.174:88/files/fox.m3u8
 #EXTINF:0 tvg-logo="http://oneplay.tv/uploads/video_thumbs/fox1hd.png",Fox 1 HD (TP2)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=415&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1012.jpg",FOX E (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=201&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1012.jpg",FOX O (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8?
+http://sicostopo.com/ichi134/view.m3u8?canal=251&f=.m3u8&profile=5
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/561.png",FOX ACTION HD (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/559.png",FOX MOVIES HD (TP)
