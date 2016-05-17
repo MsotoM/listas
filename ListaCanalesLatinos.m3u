@@ -1,5 +1,11 @@
 #EXTM3U cache=2000 deinterlace=1
-#EXTINF:0 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cnn-en-espanol.gif" tvg-shift=-0,CNN en español
+#EXTINF:0 tvg-logo="http://tv-envivo.pe/wp-content/uploads/2016/05/gol-peru-HD.jpg",GOL Peru
+http://46.28.205.206/golperu/index.m3u8
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-2sDL8-1Hn9w/VsJUMs6bVgI/AAAAAAAAPyU/KKNZktqnWo0/s200/brand.gif",Wapa
+http://209.126.106.202:8080/wapapr/index.m3u8
+#EXTINF:0 tvg-logo="http://cf.juggle-images.com/matte/white/280x280/unicable-logo-primary.jpg",Unicable
+209.126.106.202:8080/unicable2/index.m3u8
+#EXTINF:0 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cnn-en-espanol.gif",CNN en español
 http://149.56.15.27:8000/live/Toro55/toro1768/87.m3u8
 #EXTINF:-1 tvg-logo="http://auto.img.v4.skyrock.net/5295/76215295/pics/2960858357_1_3_2Ykd7pHM.jpg",M6 MUSIC
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
@@ -63,6 +69,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8?
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/1001.png",Tiin (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",Cbeebies
+http://209.126.106.202:8080/cbee/index.m3u8
 #EXTINF:0 tvg-logo="http://jo3k.com/pvr/Logos/CBeebies.jpg",Cbeebies (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL305/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tateti.png", TATETI
