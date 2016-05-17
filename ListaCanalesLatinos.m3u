@@ -155,8 +155,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8?
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/215.png", COMEDY CENTRAL (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/216.png",TBS (TP)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL473/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/216.png",TBS
+http://199.180.114.174:88/files/tbs.m3u8
 #EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK
 http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK 2
@@ -191,6 +191,8 @@ http://162.212.176.83:8080/sulavision.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS 2 (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS 3
+http://199.180.114.174:88:/files/foxsports3312.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/170px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png", BEIN SPORT Ñ
 http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-logo="http://d136swi17h0tnq.cloudfront.net/Upload/2016-02/48696423-60f9-4472-80bf-3460ac368096.png", FS1 (FOXSPORT)
