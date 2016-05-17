@@ -1,4 +1,6 @@
 #EXTM3U cache=2000 deinterlace=1
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-rPp-87chQuA/VeDad8eEB0I/AAAAAAAAA2Q/KksxDBBfoQo/s1600/canal7mazatlan.png",Mazatlan TV
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8
 #EXTINF:0 tvg-logo="http://tv-envivo.pe/wp-content/uploads/2016/05/gol-peru-HD.jpg",GOL Peru (HLS)
 http://46.28.205.206/golperu/index.m3u8
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-2sDL8-1Hn9w/VsJUMs6bVgI/AAAAAAAAPyU/KKNZktqnWo0/s200/brand.gif",Wapa (HLS)
@@ -199,8 +201,8 @@ http://162.212.176.83:8080/sulavision.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS 2 (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8?
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/608.png", FOX SPORTS 3
-http://199.180.114.174:88:/files/foxsports3312.m3u8
+#EXTINF:0 tvg-logo="http://www.television-envivo.com/wp-content/uploads/2014/06/fox-sports-3-300-144x144.png", FOX SPORTS 3
+http://199.180.114.174:88/files/foxsports3312.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/170px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png", BEIN SPORT Ñ
 http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-logo="http://d136swi17h0tnq.cloudfront.net/Upload/2016-02/48696423-60f9-4472-80bf-3460ac368096.png", FS1 (FOXSPORT)
