@@ -67,11 +67,11 @@ http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8?sd=1
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="http://www.vodafone.co.nz/cms/images/sky/channels/movies-premiere.png",MOVIES PREMIERE
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gild.wpengine.netdna-cdn.com/wp-content/uploads/2015/04/customer-logos-hbo.png", HBO
+#EXTINF:-1 tvg-logo="http://www.comanet.cz/ui/iptv/images/tv_iptv/HBO.png", HBO
 http://199.180.114.174:88/files/hbo11.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO2
 http://199.180.114.174:88/files/hbo235.m3u8
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/0/00/HBO_Family_new_logo.png",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/250px-HBO_Family_logo.png",HBO FAMILY
 http://199.180.114.174:88/files/hbofamily453.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/210.png",SONY (TP)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8?
