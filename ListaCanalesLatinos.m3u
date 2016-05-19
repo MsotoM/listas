@@ -1,4 +1,6 @@
 #EXTM3U cache=2000 deinterlace=1
+#EXTINF:0 tvg-logo="http://www.tivigi.com/img/kanallar/sports-tv.png",Sports TV (TK)
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8?
 #EXTINF:0 tvg-logo="http://www.mondialtv.fr/wp-content/uploads/logo-etb-sat.png",Etb Sat (HLS)
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:0 tvg-logo="http://elcostal.org/wp-content/uploads/2014/03/El-correo-tv-fondo-rojo.jpg", elCorreo TV (HLS)
