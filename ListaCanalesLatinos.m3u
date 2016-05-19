@@ -1,4 +1,6 @@
 #EXTM3U cache=2000 deinterlace=1
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1244391927/oatv.jpg",Onda Algeciras TV (HLS)
+http://cls.provideo.es/algecirastv/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/200px-Rts_logo.png",RTS Ecuador
 http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8 
 #EXTINF:0,  tvg-logo="http://lh3.googleusercontent.com/-FJbZphu8-Hg/U5l-w_9uG2I/AAAAAAAABAw/aCXN8VZNsd4/s144-c/willax-tv-peru.png",Willax
