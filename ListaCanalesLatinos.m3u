@@ -1,4 +1,8 @@
 #EXTM3U cache=2000 deinterlace=1
+#EXTINF:0 tvg-logo="http://www.mondialtv.fr/wp-content/uploads/logo-etb-sat.png",Etb Sat (HLS)
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0 tvg-logo="http://elcostal.org/wp-content/uploads/2014/03/El-correo-tv-fondo-rojo.jpg", elCorreo TV (HLS)
+http://cloud1.cdnstreamserver.com/luztv/livestream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1244391927/oatv.jpg",Onda Algeciras TV (HLS)
 http://cls.provideo.es/algecirastv/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/200px-Rts_logo.png",RTS Ecuador
